@@ -1,6 +1,6 @@
 ---
-title: Second Post
-author: Chris
+title: 新闻二
+author: 无名氏
 layout: post
 ---
 

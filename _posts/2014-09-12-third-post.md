@@ -1,6 +1,6 @@
 ---
-title: Third Post
-author: Chris
+title: 新闻三
+author: 无名氏
 layout: post
 icon: fa-lightbulb-o
 ---
