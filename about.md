@@ -1,6 +1,6 @@
 ---
 title: 关于学联
-layout: "about"
+layout: "page"
 icon: fa-user
 order: 2
 ---
