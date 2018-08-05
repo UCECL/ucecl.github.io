@@ -1,14 +1,11 @@
 ---
-title: 新闻一
-author: 无名氏
+title: 留法四十年纪念大会暨留法学人论坛在巴黎隆重举行
+author: 全法学联
 layout: post
 ---
-Lorem ipsum dolor sit amet, iusto ridens dictas te sed. Error latine vis et. Ex cum munere definitiones, ne quas debitis contentiones cum, epicurei constituam ea sit. Dicant aeterno dolorum ex eum, qui everti iisque consectetuer ea! Duo in falli similique, nec tritani accusam te. Enim sapientem intellegat te pri, nam at atqui accumsan vituperata.
 
-Sed id graeci feugiat. No meis summo consequat vel! Albucius phaedrum omittantur eos an, ex sit lorem possim perpetua. Usu et sumo posidonium, ut qui dicat sapientem tincidunt, et has consul oporteat torquatos! In qui fabulas facilisis, justo nonumes an his, quo vidisse nusquam facilisis no. Eam iriure mediocrem suavitate an?
+7月5日下午，由全法中国学者学生联合会、全法中国科技工作者协会、中国旅法工程师协会、中国旅法生物医学会联合举办的留法四十年纪念大会暨留法学人论坛在中国驻法使馆隆重举行。
 
-Quo te solum malorum prompta, porro oblique senserit cum et! Pro wisi cetero periculis ei, nam ullum dicit accusam ne, ad quo apeirian principes dissentiunt. An mea mucius vocent iisque? Vel eu altera consetetur, clita perfecto mea ad. Eos in vero ullum regione, ei veniam disputando pro, nam et iuvaret detracto voluptua.
+中国驻法国大使翟隽，中国驻法使馆教育公参杨进，法国巴黎高科主席、国立高等先进技术学校校长伊丽莎白·可瑞芃，中国科学院上海高等研究院前院长封松林，法国科学院院士、中国科学院外籍院士克里斯汀·阿芒托，法国巴黎文理研究大学副校长爱德华·钰龙，法国巴斯德研究所副所长莫妮卡·莎拉，全法中国科技工作者协会理事长陈勇，中国旅法工程师协会会长宋劲松，中国旅法生物医学会会长叶非，中国国际贸易促进委员会驻法国代表处总代表蔡国枫，全法中国学者学生联合会主席刘源辉，以及来自全法各地留学人员代表、各留学人员团体代表、在法中资机构以及国内的学人代表两百余人出席了大会。
 
-Ad tritani deleniti sit, ne per ubique habemus singulis. Pro at integre alienum mediocritatem, mea ad libris adipisci necessitatibus, nostro constituam sit te. Recusabo oportere et mea, case minimum deleniti no quo, deseruisse conclusionemque vis te. Nam ex iudicabit constituam accommodare, dicam singulis ex eos! Eu mea viderer ceteros repudiandae, id erat voluptatum mea, ut consul omittam convenire quo. Id justo ipsum mei, modus contentiones per et! At mel omnium lucilius instructior, vel quando graeco in, eos docendi periculis eloquentiam ut.
-
-Eam habemus aliquando ut. Id idque virtute antiopam duo, et idque falli incorrupte eos, in sea omnium instructior. Mei ex nostrud moderatius cotidieque, cu sea partiendo euripidis, eam no tollit doming! Has ne facilisi vulputate, aliquando disputationi mel eu. Ex pri diceret delectus intellegam, regione definiebas pro ex.
+会议详细报告请戳[全法学联相关链接][http://www.ucecf.fr/show.asp?id=2478]。
