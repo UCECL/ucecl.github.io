@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-{%- assign _sections = site.abouts | sort: 'order' -%}
-{%- include header.html scrolly_nav=_sections -%}
+{%- assign _abouts = site.abouts | sort: 'order' -%}
+{%- include header.html scrolly_nav=_abouts -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
 		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
 	{%- endif -%}
 	<!-- Sections -->
-	{%- for _section in _sections -%}
-		{%- include section.html title=_section.title photo=_section.cover-photo photo-alt=_section.cover-photo-alt auto-header=_section.auto-header content=_section.content -%}
+	{%- for _about in _abouts -%}
+		{%- include section.html title=_about.title photo=_about.cover-photo photo-alt=_about.cover-photo-alt auto-header=_about.auto-header content=_about.content -%}
 	{%- endfor -%}
 </div>
