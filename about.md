@@ -43,6 +43,22 @@ order: 2
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin-top: 25px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
     <section class="" style="font-size: 18px;color: rgb(98, 82, 63);box-sizing: border-box;">
+        <p style="box-sizing: border-box;"><strong style="box-sizing: border-box;">学联简介</strong></p>
+    </section>
+    </section>
+    </section>
+    </section>
+    </section>
+    </section>
+
+    里尔中国学生学者联谊会，法语全称 Union des chercheurs et étudiants chinois en France à Lille，简称里尔学联（UCECL）。里尔学联是服务于里尔华人学生学者的非营利组织，目前设有学习部、文艺部、体育部、外联部、编宣部、秘书部、 艺术团等七个部门。
+
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section class="" style="display: inline-block;width: 230px;height: 80px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0C5hdggzy0q31mAtVAHNficezPGgEWDZmzyV8IyDg204Kvia6UAlVWAjKA/640?wx_fmt=png&quot;);box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-top: 25px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section class="" style="font-size: 18px;color: rgb(98, 82, 63);box-sizing: border-box;">
         <p style="box-sizing: border-box;"><strong style="box-sizing: border-box;">组织结构</strong></p>
     </section>
     </section>
@@ -77,1269 +93,259 @@ order: 2
         </ol>
     </section></section></section></section></section></section>
 
-    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;"><section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;"></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin: 15px 0%;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;"><p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">文艺部</p><p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p></section></section></section></section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;"><ol class=" list-paddingleft-2" style=""><li><p style="box-sizing: border-box;">负责组织各种文艺活动，丰富里尔华人的文娱生活，定期组织召开部门会议；</p></li><li><p style="box-sizing: border-box;">做好里尔学联例行文艺活动以及其他大型活动期间的有关文艺活动的策划工作及组织工作；</p></li><li><p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">承办里尔学联春节联欢晚会晚会；</span></p></li><li><p style="box-sizing: border-box;">及时了解掌握文艺团的工作情况，并做好与主席团的反馈工作。</p></li></ol></section></section></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;"><section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;"></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin: 15px 0%;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;"><p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">体育部</p><p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p></section></section></section></section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;"><ol class=" list-paddingleft-2" style=""><li><p style="box-sizing: border-box;">主要负责里尔地区华人体育活动，定期篮球训练、篮球赛、专业健身活动等；</p></li><li><p style="box-sizing: border-box;">在里尔学联主办或承办的各项活动中负责后勤保障工作；</p></li><li><p style="box-sizing: border-box;">负责定期和编宣部合作，向里尔华人普及涉及运动的相关知识。</p></li></ol></section></section></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;"><section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;"></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin: 15px 0%;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;"><p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">外联部</p><p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p></section></section></section></section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;"><ol class=" list-paddingleft-2" style=""><li><p style="box-sizing: border-box;">负责与中法各类公司联系赞助里尔学联开展的各项活动，建立良好的合作关系；</p></li><li><p style="box-sizing: border-box;">负责处理中法公司需要里尔学联协办的宣传工作，外联部起联系、沟通、监督长期合作的作用；</p></li><li><p style="box-sizing: border-box;">在与公司的沟通过程中，树立里尔学联诚实守信、精练能干的形象；</p></li></ol></section></section></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;"><section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;"></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin: 15px 0%;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;"><p style="box-sizing: border-box;">编</p><p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">宣</span></p><p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">部</span></p><p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p></section></section></section></section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="text-align: justify;color: rgb(102, 102, 102);font-size: 15px;line-height: 1.8;box-sizing: border-box;"><ol class=" list-paddingleft-2" style=""><li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联各类活动的前后期实体宣传工作，包括海报、地贴、宣传册的制作等；</span></p></li><li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联社交平台的管理工作，包括公众号运营、脸书更新等；</span></p></li><li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联各类活动的现场摄影与录像工作。</span></p></li></ol></section></section></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;"><section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;"></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin: 15px 0%;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;"><p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">秘书部</p><p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p></section></section></section></section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="text-align: justify;color: rgb(102, 102, 102);font-size: 15px;line-height: 1.8;box-sizing: border-box;"><ol class=" list-paddingleft-2" style=""><li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">主要负责协助主席团进行联络、整理、通知等活动；</span></p></li><li><p style="box-sizing: border-box;"><span style="font-size: 14px;letter-spacing: 0px;box-sizing: border-box;">负责整理里尔学联成员信息总结与整理；</span></p></li><li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联财务管理工作；</span></p></li><li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;"></span><span style="font-size: 14px;letter-spacing: 0px;box-sizing: border-box;">负责里尔学联例会的通知、签到、会议总结等活动；</span></p></li></ol></section></section></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;"><section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;"></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin: 15px 0%;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;"><p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">艺术团</p><p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p></section></section></section></section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;"><ol class=" list-paddingleft-2" style=""><li><p style="box-sizing: border-box;">主要负责舞蹈训练活动，由主席团定期进行训练结果审查；</p></li><li><p style="box-sizing: border-box;">负责里尔学联活动期间的舞蹈节目编排和表演工作；</p></li><li><p style="box-sizing: border-box;">如部分成员有其它特长，由主席团审查后可成为独立节目或备选节目。</p></li></ol></section></section></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;"><section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;"></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="font-size: 14px;box-sizing: border-box;"><p style="box-sizing: border-box;"><strong style="box-sizing: border-box;"><span style="color: rgb(241, 42, 12);box-sizing: border-box;">注：</span></strong></p><ol class=" list-paddingleft-2" style=""><li><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">上述部门对法语等级都没有硬性要求，加入里尔学联也是你巩固法语运用的重要方法，不要因为语言影响你加入我们的热情！</span></p></li><li><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">加入文艺团和申请其他六个部门不冲突，我们相信你的能力，同时希望你安排好自己的学习与生活！</span></p></li></ol><p style="box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp;<strong style="box-sizing: border-box;">如果你对“主持人”这样一个岗位感兴趣，在申请以上部门的同时还可以参加主持人选拔：</strong></span></p><ol class=" list-paddingleft-2" style=""><li><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">负责里尔学联大型活动的主持词编写与现场主持工作；</span></p></li><li><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">负责整理和总结活动主持工作，支持编宣部后期宣传；</span></p></li><li><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">要求：中法双语交流能力，临场应变能力，撰稿能力；</span></p></li><li><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">主持人原部门不作要求，但主持人身份隶属文艺部管辖。</span></p></li></ol><p style="box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;"><strong style="box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp;现任里尔学联成员</strong>可以申请留部或换部，感谢大家长期以来的信任和支持！</span></p></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section class="" style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden !important;box-sizing: border-box;"><img data-ratio="0.0765625" data-src="https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0CBYvloWGeWbeVBzXaWAF795BOpyaUDVH7m2xEPmlBibricFJKxM2Gc9KQ/640?wx_fmt=png" data-type="png" data-w="640" style="vertical-align: middle;box-sizing: border-box;"  /></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="font-size: 14px;color: rgb(85, 18, 18);box-sizing: border-box;"><p style="text-align: center;box-sizing: border-box;"><span style="font-size: 16px;box-sizing: border-box;"><strong style="box-sizing: border-box;">2018年里尔学联拟招新活动已经启动！</strong></span></p><p style="box-sizing: border-box;"><strong style="box-sizing: border-box;"><br style="box-sizing: border-box;"  /></strong></p><p style="box-sizing: border-box;"><span style="box-sizing: border-box;">&nbsp; &nbsp; &nbsp; <span style="color: rgb(12, 12, 12);box-sizing: border-box;">&nbsp;如果你对里尔学联的工作充满向往，如果你对以上的部门充满兴趣，那么尽快联系我们！个人素质突出的候选人有可能会收到提前批通知，其他候选人进入正常招新渠道，我们会尽快安排联系！</span></span></p><p style="box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp;不管你是已经观望很久的里尔生活老手，还是刚到里尔的萌新，里尔学联期待你的加入！让我们一起创造一个专业、热情、上进、有爱的团体，延续里尔学联的优秀传统，创造属于我们的里尔青春！<br style="box-sizing: border-box;"  /><br style="box-sizing: border-box;"  />&nbsp; &nbsp; &nbsp; &nbsp;有意向者请把中文/法语简历发送到下述邮箱地址，并在邮件内简单介绍自己和阐述动机，我们会尽快与你联系！</span></p><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">&nbsp; &nbsp; &nbsp; </span><strong style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">&nbsp;邮箱地址：</span><span style="color: rgb(12, 12, 12);text-decoration: underline;box-sizing: border-box;">xuelianlille.ucecl@gmail.com</span></strong></p><p style="box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p><p style="box-sizing: border-box;"><span style="color: rgb(12, 12, 12);box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp;如果你有关于学联的问题，欢迎邮件联系主席团进行了解！</span></p></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 10px;margin-bottom: 10px;font-size: 12px;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: middle;box-sizing: border-box;"><section class="" style="max-width: 100%;display: inline-block;vertical-align: bottom;width: 1.6em;overflow: hidden !important;box-sizing: border-box;"><img data-ratio="0.8235294" data-src="https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0C2icSNN2WNqMMTQ8MzAhI6ZKhXTkYSojmEK0WtqZpFxOmvMB0Tiaj980w/640?wx_fmt=png" data-type="png" data-w="85" style="vertical-align: middle;width: 100%;box-sizing: border-box;" width="100%"  /></section><section class="" style="display: inline-block;vertical-align: bottom;padding-left: 5px;padding-right: 5px;line-height: 1.2em;margin-bottom: 2px;font-size: 14px;color: rgb(12, 12, 12);box-sizing: border-box;"><p style="box-sizing: border-box;">学习部、编宣部、主持人相关——胡宇晴<span style="text-decoration: underline;box-sizing: border-box;">huyuqing.ucecl@gmail.com</span></p></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 10px;margin-bottom: 10px;font-size: 12px;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: middle;box-sizing: border-box;"><section class="" style="max-width: 100%;display: inline-block;vertical-align: bottom;width: 1.6em;overflow: hidden !important;box-sizing: border-box;"><img data-ratio="0.8235294" data-src="https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0C2icSNN2WNqMMTQ8MzAhI6ZKhXTkYSojmEK0WtqZpFxOmvMB0Tiaj980w/640?wx_fmt=png" data-type="png" data-w="85" style="vertical-align: middle;width: 100%;box-sizing: border-box;" width="100%"  /></section><section class="" style="display: inline-block;vertical-align: bottom;padding-left: 5px;padding-right: 5px;line-height: 1.2em;margin-bottom: 2px;font-size: 14px;color: rgb(12, 12, 12);box-sizing: border-box;"><p style="box-sizing: border-box;">体育部、秘书部相关——李亮<span style="text-decoration: underline;box-sizing: border-box;">liliang.ucecl@gmail.com</span></p></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 10px;margin-bottom: 10px;font-size: 12px;box-sizing: border-box;"><section class="" style="display: inline-block;vertical-align: middle;box-sizing: border-box;"><section class="" style="max-width: 100%;display: inline-block;vertical-align: bottom;width: 1.6em;overflow: hidden !important;box-sizing: border-box;"><img data-ratio="0.8235294" data-src="https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0C2icSNN2WNqMMTQ8MzAhI6ZKhXTkYSojmEK0WtqZpFxOmvMB0Tiaj980w/640?wx_fmt=png" data-type="png" data-w="85" style="vertical-align: middle;width: 100%;box-sizing: border-box;" width="100%"  /></section><section class="" style="display: inline-block;vertical-align: bottom;padding-left: 5px;padding-right: 5px;line-height: 1.2em;margin-bottom: 2px;font-size: 14px;color: rgb(12, 12, 12);box-sizing: border-box;"><p style="box-sizing: border-box;">文艺部、外联部、艺术团相关——芮梦宇<span style="text-decoration: underline;box-sizing: border-box;">ruimengyu.ucecl@gmail.com</span></p></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: center;margin: 40px 0%;box-sizing: border-box;"><section class="" style="display: inline-block;width: 98%;vertical-align: top;border-color: rgb(73, 126, 56);border-width: 1px;border-radius: 0px;border-style: solid;padding: 10px 15px 15px;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: left;margin-top: -30px;margin-right: 0%;margin-left: 0%;transform: translate3d(-17px, 0px, 0px);box-sizing: border-box;"><section class="" style="display: inline-block;width: 50%;vertical-align: top;background-color: rgb(255, 255, 255);box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: center;margin-right: 0%;margin-left: 0%;box-sizing: border-box;"><section class="" style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden !important;box-sizing: border-box;"><img data-ratio="0.325" data-src="https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0C1XJcgcdefbmCImtRl7aucJMW8HmRUsrRDfaeiaIh6ibicvJzUNzbqQvdA/640?wx_fmt=png" data-type="png" data-w="560" style="vertical-align: middle;box-sizing: border-box;"  /></section></section></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="text-align: left;font-size: 14px;box-sizing: border-box;"><p style="box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp;希望我们携手同行，服务里尔华人，凝聚力量，打造属于我们的特色，书写我们的里尔青春！</p><p style="box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;——新任主席王思远&nbsp;&nbsp;</p></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: right;margin: 10px 0% -30px;transform: translate3d(17px, 0px, 0px);-webkit-transform: translate3d(17px, 0px, 0px);-moz-transform: translate3d(17px, 0px, 0px);-o-transform: translate3d(17px, 0px, 0px);box-sizing: border-box;"><section class="" style="display: inline-block;width: 50%;vertical-align: top;background-color: rgb(255, 255, 255);box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: center;margin-top: -10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;"><section class="" style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden !important;box-sizing: border-box;"><img data-ratio="0.3267857" data-src="https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0C6pa1CwFzCPeNCt3viag7QZSoRJ3LrEvmicibS0DtQJJvgzkQXgia1rWFzA/640?wx_fmt=png" data-type="png" data-w="560" style="vertical-align: middle;box-sizing: border-box;"  /></section></section></section></section></section></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section class="" style="display: inline-block;width: 100%;border-width: 1px;border-style: dashed;border-color: rgb(160, 160, 160);padding: 10px;background-color: rgb(255, 255, 255);border-radius: 0px;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="group-empty" style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;"></section><section class="" style="display: inline-block;vertical-align: top;width: 60%;box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="text-align: center;font-size: 12px;color: rgb(160, 160, 160);box-sizing: border-box;"><p style="box-sizing: border-box;">2018-2019 里尔新生群</p></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="text-align: center;font-size: 12px;box-sizing: border-box;"><p style="box-sizing: border-box;">○</p></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="text-align: center;font-size: 12px;box-sizing: border-box;"><p style="box-sizing: border-box;"><strong style="box-sizing: border-box;">欢迎加入</strong></p></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="font-size: 12px;box-sizing: border-box;"><p style="text-align: center;box-sizing: border-box;">○</p></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="text-align: center;font-size: 12px;color: rgb(160, 160, 160);box-sizing: border-box;"><p style="box-sizing: border-box;">交流|分享|生活|答疑|交友<br style="box-sizing: border-box;"  /></p></section></section></section></section><section class="group-empty" style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;"></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section class="" style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden !important;box-sizing: border-box;"><img data-ratio="1.1627486" data-src="https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0CW6uKCwnDX3SwliaogZHj1nCXaQz5hHWauH0iadGd4Aia0a6urKeRRwzQg/640?wx_fmt=png" data-type="png" data-w="553" style="vertical-align: middle;box-sizing: border-box;"  /></section></section></section></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="box-sizing: border-box;"><section class="" style="font-size: 14px;color: rgb(12, 12, 12);box-sizing: border-box;"><p style="box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p><p style="box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p><p style="box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p><p style="box-sizing: border-box;">撰稿：胡宇晴</p><p style="box-sizing: border-box;">审稿：王思远 &nbsp;&nbsp;</p><p style="box-sizing: border-box;">排版：刘楚吟</p></section></section></section><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section class="" style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden !important;box-sizing: border-box;"><img data-ratio="0.6" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0CSUnBe2fFBefnDs7GxdJLD5ibrFqyT7CxEv2MbyyDpZOYqz6XSA48ULg/640?wx_fmt=jpeg" data-type="jpeg" data-w="640" style="vertical-align: middle;box-sizing: border-box;"  /></section></section></section></section><p><br  /></p>
-                </div>
-                <script nonce="1969307980" type="text/javascript">
-                    var first_sceen__time = (+new Date());
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+    <section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;">
+    </section>
+    </section>
+    </section>
 
-                    if ("" == 1 && document.getElementById('js_content')) {
-                        document.getElementById('js_content').addEventListener("selectstart",function(e){ e.preventDefault(); });
-                    }
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin: 15px 0%;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
+        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">文艺部</p>
+        <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
+    </section>
+    </section>
+    </section>
+    </section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="box-sizing: border-box;">
+    <section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;">
+        <ol class=" list-paddingleft-2" style="">
+            <li><p style="box-sizing: border-box;">负责组织各种文艺活动，丰富里尔华人的文娱生活，定期组织召开部门会议；</p></li>
+            <li><p style="box-sizing: border-box;">做好里尔学联例行文艺活动以及其他大型活动期间的有关文艺活动的策划工作及组织工作；</p></li>
+            <li><p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">承办里尔学联春节联欢晚会晚会；</span></p></li>
+            <li><p style="box-sizing: border-box;">及时了解掌握文艺团的工作情况，并做好与主席团的反馈工作。</p></li>
+        </ol>
+    </section></section></section></section></section></section>
 
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+    <section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;">
+    </section>
+    </section>
+    </section>
 
-                    (function(){
-                        if (navigator.userAgent.indexOf("WindowsWechat") != -1){
-                            var link = document.createElement('link');
-                            var head = document.getElementsByTagName('head')[0];
-                            link.rel = 'stylesheet';
-                            link.type = 'text/css';
-                            link.href = "//res.wx.qq.com/mmbizwap/en_US/htmledition/style/page/appmsg_new/winwx3ec992.css";
-                            head.appendChild(link);
-                        }
-                    })();
-                </script>
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin: 15px 0%;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
+        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">体育部</p>
+        <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
+    </section>
+    </section>
+    </section>
+    </section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="box-sizing: border-box;">
+    <section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;">
+        <ol class=" list-paddingleft-2" style="">
+            <li><p style="box-sizing: border-box;">主要负责里尔地区华人体育活动，定期篮球训练、篮球赛、专业健身活动等；</p></li>
+            <li><p style="box-sizing: border-box;">在里尔学联主办或承办的各项活动中负责后勤保障工作；</p></li>
+            <li><p style="box-sizing: border-box;">负责定期和编宣部合作，向里尔华人普及涉及运动的相关知识。</p></li>
+        </ol>
+    </section></section></section></section></section></section>
 
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+    <section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;">
+    </section>
+    </section>
+    </section>
 
-                <div class="ct_mpda_wrp" id="js_sponsor_ad_area" style="display:none;"></div>
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin: 15px 0%;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
+        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">外联部</p>
+        <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
+    </section>
+    </section>
+    </section>
+    </section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="box-sizing: border-box;">
+    <section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;">
+        <ol class=" list-paddingleft-2" style="">
+            <li><p style="box-sizing: border-box;">负责与中法各类公司联系赞助里尔学联开展的各项活动，建立良好的合作关系；</p></li>
+            <li><p style="box-sizing: border-box;">负责处理中法公司需要里尔学联协办的宣传工作，外联部起联系、沟通、监督长期合作的作用；</p></li>
+            <li><p style="box-sizing: border-box;">在与公司的沟通过程中，树立里尔学联诚实守信、精练能干的形象；</p></li>
+        </ol>
+    </section></section></section></section></section></section>
 
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+    <section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;">
+    </section>
+    </section>
+    </section>
 
-                                <div class="reward_area tc reward_area_primary" id="js_preview_reward_author" style="display:none;">
-                    <div class="reward-avatar" style="display: none;" id="js_preview_reward_author_avatar">
-                        <img src="" alt="" id="js_preview_reward_author_head">
-                    </div>
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin: 15px 0%;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">编</p>
+        <p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">宣</span></p>
+        <p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">部</span></p>
+        <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
+    </section>
+    </section>
+    </section>
+    </section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="box-sizing: border-box;">
+    <section class="" style="text-align: justify;color: rgb(102, 102, 102);font-size: 15px;line-height: 1.8;box-sizing: border-box;">
+        <ol class=" list-paddingleft-2" style="">
+            <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联各类活动的前后期实体宣传工作，包括海报、地贴、宣传册的制作等；</span></p></li>
+            <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联社交平台的管理工作，包括公众号运营、脸书更新等；</span></p></li>
+            <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联各类活动的现场摄影与录像工作。</span></p></li>
+        </ol>
+    </section></section></section></section></section></section>
 
-                                        <div class="reward-author" id="js_preview_reward_author_name"></div>
-                                        <p class="reward_tips" id="js_preview_reward_author_wording" style="display:none;"></p>
-                    <p>
-                        <a class="reward_button" id='js_preview_reward_author_link' href="##"><span id="js_preview_reward_link_text">Reward</span></a>
-                    </p>
-                </div>
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+    <section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;">
+    </section>
+    </section>
+    </section>
 
-                <div class="reward_qrcode_area reward_area tc" id="js_preview_reward_qrcode" style="display:none;">
-                    <p class="tips_global">长按二维码向我转账</p>
-                    <p id="js_preview_reward_ios_wording" class="reward_tips" style="display:none;"></p>
-                    <span class="reward_qrcode_img_wrp"><img class="reward_qrcode_img" src="//res.wx.qq.com/mmbizwap/en_US/htmledition/images/pic/appmsg/pic_reward_qrcode.2x3534de.png"></span>
-                    <p class="tips_global">受苹果公司新规定影响，微信 iOS 版的赞赏功能被关闭，可通过二维码转账支持公众号。</p>
-                </div>
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin: 15px 0%;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
+        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">秘书部</p>
+        <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
+    </section>
+    </section>
+    </section>
+    </section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="box-sizing: border-box;">
+    <section class="" style="text-align: justify;color: rgb(102, 102, 102);font-size: 15px;line-height: 1.8;box-sizing: border-box;">
+        <ol class=" list-paddingleft-2" style="">
+            <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">主要负责协助主席团进行联络、整理、通知等活动；</span></p></li>
+            <li><p style="box-sizing: border-box;"><span style="font-size: 14px;letter-spacing: 0px;box-sizing: border-box;">负责整理里尔学联成员信息总结与整理；</span></p></li>
+            <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联财务管理工作；</span></p></li>
+            <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;"></span><span style="font-size: 14px;letter-spacing: 0px;box-sizing: border-box;">负责里尔学联例会的通知、签到、会议总结等活动；</span></p></li>
+        </ol>
+    </section></section></section></section></section></section>
 
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+    <section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;">
+    </section>
+    </section>
+    </section>
 
-                            </div>
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin: 15px 0%;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
+    <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
+        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">艺术团</p>
+        <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
+    </section>
+    </section>
+    </section>
+    </section><section class="" style="display: inline-block;vertical-align: top;width: 85%;box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="box-sizing: border-box;">
+    <section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;">
+        <ol class=" list-paddingleft-2" style=""><li>
+            <p style="box-sizing: border-box;">主要负责舞蹈训练活动，由主席团定期进行训练结果审查；</p></li>
+            <li><p style="box-sizing: border-box;">负责里尔学联活动期间的舞蹈节目编排和表演工作；</p></li>
+            <li><p style="box-sizing: border-box;">如部分成员有其它特长，由主席团审查后可成为独立节目或备选节目。</p></li>
+        </ol>
+    </section></section></section></section></section></section>
 
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+    <section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;">
+    </section>
+    </section>
+    </section>
 
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section class="" style="display: inline-block;width: 230px;height: 80px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0C5hdggzy0q31mAtVAHNficezPGgEWDZmzyV8IyDg204Kvia6UAlVWAjKA/640?wx_fmt=png&quot;);box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <section class="" style="margin-top: 25px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section class="" style="font-size: 18px;color: rgb(98, 82, 63);box-sizing: border-box;">
+        <p style="box-sizing: border-box;"><strong style="box-sizing: border-box;">学联人事</strong></p>
+    </section>
+    </section>
+    </section>
+    </section>
+    </section>
+    </section>
 
+    <table border="0" width="589" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+    <td rowspan="9" width="146" height="217">
+    <h5>主席团</h5>
+    </td>
+    <td width="140">
+    <h5>主席</h5>
+    </td>
+    <td width="77">
+    <h5>王思远</h5>
+    </td>
+    <td width="226">
+    <h5>Inria</h5>
+    </td>
+    </tr>
+    <tr>
+    <td height="24">
+    <h5>副主席（分管学习部与编宣部）</h5>
+    </td>
+    <td>
+    <h5>胡宇晴</h5>
+    </td>
+    <td>
+    <h5>EDHEC</h5>
+    </td>
+    </tr>
+    <tr>
+    <td height="24">
+    <h5>副主席（分管体育部与秘书部）</h5>
+    </td>
+    <td>
+    <h5>李亮</h5>
+    </td>
+    <td>
+    <h5>Université Lille 1</h5>
+    </td>
+    </tr>
+    <tr>
+    <td height="24">
+    <h5>副主席（分管文艺部与外联部）</h5>
+    </td>
+    <td>
+    <h5>芮梦宇</h5>
+    </td>
+    <td>
+    <h5>Polytech-Lille</h5>
+    </td>
+    </tr>
 
-            <ul id="js_hotspot_area" class="article_extend_area"></ul>
-
-
-
-                        <div class="rich_media_tool" id="js_toobar3">
-
-                                            <div id="js_read_area3" class="media_tool_meta tips_global_primary meta_primary" style="display:none;">Views <span id="readNum3"></span></div>
-
-                <span style="display:none;" class="media_tool_meta meta_extra meta_praise" id="like3">
-                    <i class="icon_praise_gray"></i><span class="praise_num" id="likeNum3"></span>
-                </span>
-
-
-
-            </div>
-
-
-                      </div>
-        </div>
-
-        <div class="rich_media_area_primary sougou" id="sg_tj" style="display:none"></div>
-
-
-
-        <div class="rich_media_area_extra">
-          <div class="rich_media_area_extra_inner">
-
-              <div id="js_share_appmsg">
-              </div>
-
-
-                            <div class="mpda_bottom_container" id="js_bottom_ad_area"></div>
-
-              <div id="js_iframetest" style="display:none;"></div>
-
-              <div class="rich_media_extra rich_media_extra_discuss" id="js_cmt_container" style="display:none">
-
-
-
-                <div class="discuss_mod" id="js_friend_cmt_area" style="display:none">
-
-
-
-                </div>
-
-                                <div class="discuss_mod" id="js_cmt_area" style="display:none">
-                </div>
-                              </div>
-          </div>
-        </div>
-
-
-        <div id="js_pc_qr_code" class="qr_code_pc_outer" style="display:none;">
-            <div class="qr_code_pc_inner">
-                <div class="qr_code_pc">
-                    <img id="js_pc_qr_code_img" class="qr_code_pc_img">
-                    <p>Scan QR Code via WeChat <br> to follow Official Account</p>
-                </div>
-            </div>
-        </div>
-    </div>
 
 </div>
-
-<div id="js_pc_weapp_code" class="weui-desktop-popover weui-desktop-popover_pos-up-center weui-desktop-popover_img-text" style="display: none;">
-    <div class="weui-desktop-popover__content">
-        <div class="weui-desktop-popover__desc">
-            <img id="js_pc_weapp_code_img">
-            微信扫一扫<br>使用小程序<span id="js_pc_weapp_code_des"></span>        </div>
-    </div>
 </div>
-<div id="js_minipro_dialog" style="display:none;">
-    <div class="weui-mask"></div>
-    <div class="weui-dialog">
-        <div class="weui-dialog__bd">即将打开"<span id="js_minipro_dialog_name"></span>"小程序</div>
-        <div class="weui-dialog__ft">
-            <a id="js_minipro_dialog_cancel" href="javascript:void(0);" class="weui-dialog__btn weui-dialog__btn_default">取消</a>
-            <a id="js_minipro_dialog_ok" href="javascript:void(0);" class="weui-dialog__btn weui-dialog__btn_primary">打开</a>
-        </div>
-    </div>
 </div>
-
-        <script nonce="1969307980">
-    var __DEBUGINFO = {
-        debug_js : "//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/debug/console3a696a.js",
-        safe_js : "//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/safe/moonsafe3a696a.js",
-        res_list: []
-    };
-
-</script>
-
-<script nonce="1969307980" type="text/javascript">
-(function() {
-	var totalCount = 0,
-			finishCount = 0;
-
-	function _loadVConsolePlugin() {
-		window.vConsole = new window.VConsole();
-		while (window.vConsolePlugins.length > 0) {
-			var p = window.vConsolePlugins.shift();
-			window.vConsole.addPlugin(p);
-		}
-	}
-
-	function _addVConsole(uri, cb) {
-		totalCount++;
-		var url = '//res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/vconsole/' + uri;
-		var node = document.createElement('SCRIPT');
-		node.type = 'text/javascript';
-		node.src = url;
-		node.setAttribute('nonce', '1969307980');
-		if (cb) {
-			node.onload = cb;
-		}
-		document.getElementsByTagName('head')[0].appendChild(node);
-	}
-	if (
-		(document.cookie && document.cookie.indexOf('vconsole_open=1') > -1)
-		|| location.href.indexOf('vconsole=1') > -1
-	) {
-		window.vConsolePlugins = [];
-		_addVConsole('3.0.0/vconsole.min.js', function() {
-
-			_addVConsole('plugin/vconsole-mpopt/1.0.1/vconsole-mpopt.js', _loadVConsolePlugin);
-		});
-	}
-})();
-</script>
-
-<script nonce="1969307980" type="text/javascript">
-if (location.href.match(/fontScale=\d+/) && /(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)) {
-
-    var m=location.href.match(/fontScale=(\d*)/);
-    var map={
-        "94":1,
-        "100":2,
-        "109":3,
-        "119":4,
-        "131":5,
-    }
-    if(m&&m[1]&&map[m[1]]){
-        document.getElementsByTagName("body")[0].className+=" appmsg_skin_fontscale_"+map[m[1]];
-        console.log("appmsg_skin_fontscale_:"+map[m[1]])
-    }
-}
-
-
-(function(){
-
-
-    var first_js_time = +new Date();
-    console&&console.log("first js excute:"+(first_js_time-write_sceen_time));
-    var showDate="";
-    var svrDate=new Date("1533552473"*1000);
-    var createDate=new Date("1526499864"*1000);
-    var ct="1526499864"*1;
-    var publish_time = "2018-05-17" || "";
-    var cD={
-      year:createDate.getYear(),
-      month:createDate.getMonth()+1,
-      date:createDate.getDate()
-    };
-
-    svrDate.setHours(0);
-    svrDate.setMinutes(0);
-    svrDate.setSeconds(0);
-    var todayDate=svrDate.getTime()/1000;
-    svrDate.setDate(1);
-    svrDate.setMonth(0);
-    var yearDate=svrDate.getTime()/1000;
-
-    if(ct>=todayDate){
-      showDate="今天";
-
-    }else if(ct>=todayDate-60*60*24){
-       showDate="Yesterday";
-
-    }else if(ct>=todayDate-2*60*60*24){
-      showDate="2 days ago";
-    }else if(ct>=todayDate-3*60*60*24){
-      showDate="3天前";
-    }else if(ct>=todayDate-4*60*60*24){
-      showDate="4天前";
-    }else if(ct>=todayDate-5*60*60*24){
-      showDate="5天前";
-    }else if(ct>=todayDate-6*60*60*24){
-      showDate="6天前";
-    }else if(ct>=todayDate-2*7*60*60*24){
-      showDate="1周前";
-    }else if(ct>=yearDate){
-      var tmp = publish_time.split('-');
-      showDate = parseInt(tmp[1]) + '月' + parseInt(tmp[2]) + '日';
-
-
-
-    }else{
-      showDate=publish_time;
-    };
-    if(document.getElementById("publish_time")){
-      document.getElementById("publish_time").innerText=showDate;
-    }
-})();
-</script>
-
-<script nonce="1969307980" type="text/javascript">
-
-if (!window.console) window.console = { log: function() {} };
-
-if (typeof getComputedStyle == 'undefined') {
-    if (document.body.currentStyle) {
-        window.getComputedStyle = function(el) {
-            return el.currentStyle;
-        }
-    } else {
-        window.getComputedStyle = {};
-    }
-}
-(function(){
-    window.__zoom = 1;
-
-    (function(){
-        var validArr = ","+([0.875, 1, 1.125, 1.25, 1.375]).join(",")+",";
-        var match = window.location.href.match(/winzoom=(\d+(?:\.\d+)?)/);
-        if (match && match[1]) {
-            var winzoom = parseFloat(match[1]);
-            if (validArr.indexOf(","+winzoom+",")>=0) {
-                window.__zoom = winzoom;
-            }
-        }
-    })();
-
-    var isIE = false;
-    if (typeof version != 'undefined' && version >= 6 && version <= 9) {
-        isIE = true;
-    }
-    var getMaxWith=function(){
-        var container = document.getElementById('img-content');
-        var max_width = container.offsetWidth;
-        var container_padding = 0;
-        var container_style = getComputedStyle(container);
-        container_padding = parseFloat(container_style.paddingLeft) + parseFloat(container_style.paddingRight);
-        max_width -= container_padding;
-        var ua = navigator.userAgent.toLowerCase();
-        var re = new RegExp("msie ([0-9]+[\.0-9]*)");
-        var version;
-        if (re.exec(ua) != null) {
-            version = parseInt(RegExp.$1);
-        }
-        var isIE = false;
-        if (typeof version != 'undefined' && version >= 6 && version <= 9) {
-            isIE = true;
-        }
-        if (!max_width) {
-            max_width = window.innerWidth - 30;
-        }
-        return max_width;
-    };
-    var getParentWidth = function(dom){
-        var parent_width = 0;
-        var parent = dom.parentNode;
-        var outerWidth = 0;
-        while (true) {
-            if(!parent||parent.nodeType!=1) break;
-            var parent_style = getComputedStyle(parent);
-            if (!parent_style) break;
-            parent_width = parent.clientWidth - parseFloat(parent_style.paddingLeft) - parseFloat(parent_style.paddingRight) - outerWidth;
-            if (parent_width > 0) break;
-            outerWidth += parseFloat(parent_style.paddingLeft) + parseFloat(parent_style.paddingRight) + parseFloat(parent_style.marginLeft) + parseFloat(parent_style.marginRight) + parseFloat(parent_style.borderLeftWidth) + parseFloat(parent_style.borderRightWidth);
-            parent = parent.parentNode;
-        }
-        return parent_width;
-    }
-    var getOuterW=function(dom){
-        var style=getComputedStyle(dom),
-            w=0;
-        if(!!style){
-            w = parseFloat(style.paddingLeft) + parseFloat(style.paddingRight) + parseFloat(style.borderLeftWidth) + parseFloat(style.borderRightWidth);
-        }
-        return w;
-    };
-    var getOuterH =function(dom){
-        var style=getComputedStyle(dom),
-            h=0;
-        if(!!style){
-            h = parseFloat(style.paddingTop) + parseFloat(style.paddingBottom) + parseFloat(style.borderTopWidth) + parseFloat(style.borderBottomWidth);
-        }
-        return h;
-    };
-    var insertAfter = function(dom,afterDom){
-        var _p = afterDom.parentNode;
-        if(!_p){
-            return;
-        }
-        if(_p.lastChild === afterDom){
-            _p.appendChild(dom);
-        }else{
-            _p.insertBefore(dom,afterDom.nextSibling);
-        }
-    };
-    var getQuery = function(name,url){
-
-        var u  = arguments[1] || window.location.search,
-            reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)"),
-            r = u.substr(u.indexOf("\?")+1).match(reg);
-        return r!=null?r[2]:"";
-    };
-    (function(){
-        var images = document.getElementsByTagName('img');
-        var length = images.length;
-        var max_width = getMaxWith();
-        for (var i = 0; i < length; ++i) {
-            var src_ = images[i].getAttribute('data-src');
-            var realSrc = images[i].getAttribute('src');
-            if (!src_ || realSrc) continue;
-            var width_ = 1 * images[i].getAttribute('data-w') || max_width;
-            var ratio_ = 1 * images[i].getAttribute('data-ratio');
-            var height = 100;
-            if (ratio_ && ratio_ > 0) {
-                var img_style = getComputedStyle(images[i]);
-                var init_width = images[i].style.width;
-
-                if (init_width) {
-                    images[i].setAttribute('_width', init_width);
-                    if (init_width != 'auto') width_ = parseFloat(img_style.width);
-                }
-                var parent_width = getParentWidth(images[i])||max_width;
-                var width = width_ > parent_width ? parent_width : width_;
-                var img_padding_border = getOuterW(images[i])||0;
-                var img_padding_border_top_bottom = getOuterH(images[i])||0;
-                height = (width - img_padding_border) * ratio_ + img_padding_border_top_bottom;
-                images[i].style.cssText += ";width: " + width + "px !important;";
-                if (isIE) {
-                    var url = images[i].getAttribute('data-src');
-                    images[i].src = url;
-                } else {
-                    if(width > 40 && height > 40){
-                        images[i].className += ' img_loading';
-                    }
-                    images[i].src = "data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==";
-                }
-            } else {
-                images[i].style.cssText += ";visibility: hidden !important;";
-            }
-            images[i].style.cssText += ";height: " + height + "px !important;";
-        }
-    })();
-    window.__videoDefaultRatio=16/9;
-    window.__getVideoWh = function(dom){
-        var max_width = getMaxWith(),
-            width = max_width,
-            ratio_ = dom.getAttribute('data-ratio')*1||(4/3),
-            arr = [4/3, 16/9],
-            ret = arr[0],
-            abs = Math.abs(ret - ratio_);
-        for(var j=1,jl=arr.length;j<jl;j++){
-            var _abs = Math.abs(arr[j] - ratio_);
-            if(_abs<abs){
-                abs = _abs;
-                ret = arr[j];
-            }
-        }
-        ratio_ = ret;
-        var parent_width = getParentWidth(dom)||max_width,
-            width = width > parent_width ? parent_width : width,
-            outerW = getOuterW(dom)||0,
-            outerH = getOuterH(dom)||0,
-            videoW = width - outerW,
-            videoH = videoW/ratio_,
-            height = videoH + outerH;
-        return {w:width,h:height,vh:videoH,vw:videoW,ratio:ratio_};
-    };
-
-    (function(){
-        var iframe = document.getElementsByTagName('iframe');
-        for (var i=0,il=iframe.length;i<il;i++) {
-            var a = iframe[i];
-            var src_ = a.getAttribute('src')||a.getAttribute('data-src')||"";
-            if(!/http(s)*\:\/\/v\.qq\.com\/iframe\/(preview|player)\.html\?/.test(src_)){
-                continue;
-            }
-            var vid = getQuery("vid",src_);
-            if(!vid){
-                continue;
-            }
-            vid=vid.replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,"");
-            a.removeAttribute('src');
-            a.style.display = "none";
-            var obj = window.__getVideoWh(a),
-                mydiv = document.createElement('img');
-            mydiv.className = "img_loading";
-            mydiv.src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==";
-            mydiv.setAttribute("data-vid",vid);
-            mydiv.style.cssText = "width: " + obj.w + "px !important;";
-            insertAfter(mydiv,a);
-            a.style.cssText += ";width: " + obj.w + "px !important;";
-            a.setAttribute("width",obj.w);
-            if(window.__zoom!=1){
-                a.style.display = "block";
-                mydiv.style.display = "none";
-                a.setAttribute("_ratio",obj.ratio);
-                a.setAttribute("_vid",vid);
-            }else{
-                mydiv.style.cssText += "height: " + obj.h + "px !important;";
-                a.style.cssText += "height: " + obj.h + "px !important;";
-                a.setAttribute("height",obj.h);
-            }
-            a.setAttribute("data-vh",obj.vh);
-            a.setAttribute("data-vw",obj.vw);
-            a.setAttribute("data-src",location.protocol+"//v.qq.com/iframe/player.html?vid="+ vid + "&width="+obj.vw+"&height="+obj.vh+"&auto=0");
-        }
-    })();
-
-    (function(){
-        if(window.__zoom!=1){
-            document.getElementById('page-content').style.zoom = window.__zoom;
-            var a = document.getElementById('activity-name');
-            var b = document.getElementById('meta_content');
-            if(!!a){
-                a.style.zoom = 1/window.__zoom;
-            }
-            if(!!b){
-                b.style.zoom = 1/window.__zoom;
-            }
-            var images = document.getElementsByTagName('img');
-            for (var i = 0,il=images.length;i<il;i++) {
-                images[i].style.zoom = 1/window.__zoom;
-            }
-            var iframe = document.getElementsByTagName('iframe');
-            for (var i = 0,il=iframe.length;i<il;i++) {
-                var a = iframe[i];
-                a.style.zoom = 1/window.__zoom;
-                var src_ = a.getAttribute('data-src')||"";
-                if(!/http(s)*\:\/\/v\.qq\.com\/iframe\/(preview|player)\.html\?/.test(src_)){
-                    continue;
-                }
-                var ratio = a.getAttribute("_ratio");
-                var vid = a.getAttribute("_vid");
-                a.removeAttribute("_ratio");
-                a.removeAttribute("_vid");
-                var vw = a.offsetWidth - (getOuterW(a)||0);
-                var vh = vw/ratio;
-                var h = vh + (getOuterH(a)||0)
-                a.style.cssText += "height: " + h + "px !important;"
-                a.setAttribute("height",h);
-                a.setAttribute("data-src",location.protocol+"//v.qq.com/iframe/player.html?vid="+ vid + "&width="+vw+"&height="+vh+"&auto=0");
-                a.style.display = "none";
-                var parent = a.parentNode;
-                if(!parent){
-                    continue;
-                }
-                for(var j=0,jl=parent.children.length;j<jl;j++){
-                    var child = parent.children[j];
-                    if(child.className.indexOf("img_loading")>=0 && child.getAttribute("data-vid")==vid){
-                        child.style.cssText += "height: " + h + "px !important;";
-                        child.style.display = "";
-                    }
-                }
-            }
-        }
-    })();
-})();
-</script>
-
-<script nonce="1969307980" type="text/javascript">
-    var new_appmsg = 1;
-    var item_show_type = "0";
-    var can_see_complaint = "0";
-    var not_in_mm_css = "//res.wx.qq.com/mmbizwap/en_US/htmledition/style/page/appmsg_new/not_in_mm3ec992.css";
-    var windowwx_css = "//res.wx.qq.com/mmbizwap/en_US/htmledition/style/page/appmsg_new/winwx3ec992.css";
-    var article_improve_combo_css = "//res.wx.qq.com/mmbizwap/en_US/htmledition/style/page/appmsg_new/combo3f87f1.css";
-    var tid = "";
-    var aid = "";
-    var clientversion = "";
-    var appuin = "MzAxMzE3MTU1OQ=="||"";
-
-    var source = "";
-    var ascene = "";
-    var subscene = "";
-    var abtest_cookie = "";
-
-    var scene = 75;
-
-    var itemidx = "";
-    var appmsg_token   = "";
-    var _copyright_stat = "0";
-    var _ori_article_type = "";
-
-    var is_follow = "";
-    var nickname = "里尔学联UCECL";
-    var appmsg_type = "9";
-    var ct = "1526499864";
-    var publish_time = "2018-05-17" || "";
-    var user_name = "gh_cfd399be79ca";
-    var user_name_new = "";
-    var fakeid   = "";
-    var version   = "";
-    var is_limit_user   = "0";
-    var round_head_img = "http://mmbiz.qpic.cn/mmbiz/WgLiaMVghAqBdWibFR8vdAJq4icMTiba4RRPFxu87Pg8fqlPIgicDtvqjqk76RIDKTBk8JKFAmZXc0pU8Us5NskQUzQ/0";
-    var ori_head_img_url = "http://wx.qlogo.cn/mmhead/Q3auHgzwzM435k3hbP3TC3ibWqXTdcZicsupdDoMwEL6oruB2mh1icoDw/132";
-    var msg_title = "里尔学联成功召开2018年换届会议";
-    var msg_desc = "欢迎想加入学联的小伙伴们！";
-    var msg_cdn_url = "http://mmbiz.qpic.cn/mmbiz_jpg/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0CYP3Xk9Y4e9lAzAibLAnjp6NyMnic2KvFZicGpaNOWrQFYZK06cu5vWicrA/0?wx_fmt=jpeg";
-    var msg_link = "http://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==\x26amp;mid=2651703336\x26amp;idx=1\x26amp;sn=b588b83894d18f824d943cfb71424229\x26amp;chksm=805fc620b7284f361e6c98242c4c13edbbefd9004af87bb5bee06c9bd1ff1ff23b8c46c83043#rd";
-    var user_uin = "0"*1;
-    var msg_source_url = '';
-    var img_format = 'jpeg';
-    var srcid = '';
-    var req_id = '0618pIqX00vtf9tTFh8YzKwQ';
-    var networkType;
-    var appmsgid = '' || '2651703336'|| "";
-    var comment_id = "283662348860850176" || "283662348860850176" * 1;
-    var comment_enabled = "" * 1;
-    var is_need_reward = "0" * 1;
-    var is_https_res = ("" * 1) && (location.protocol == "https:");
-    var msg_daily_idx = "1" || "";
-    var profileReportInfo = "" || "";
-
-    var devicetype = "";
-    var source_encode_biz = "";
-    var source_username = "";
-
-    var reprint_ticket = "";
-    var source_mid = "";
-    var source_idx = "";
-    var source_biz = "";
-    var author_id = "";
-
-
-    var optimizing_flag = "0" * 1;
-    var ad_abtest_padding = "0" * 1;
-
-    var show_comment = "";
-    var __appmsgCgiData = {
-        wxa_product : ""*1,
-        wxa_cps : ""*1,
-        show_msg_voice: "0"*1,
-        can_use_page : "0"*1,
-        is_wxg_stuff_uin : "0"*1,
-        card_pos : "",
-        copyright_stat : "0",
-        source_biz : "",
-        hd_head_img : "http://wx.qlogo.cn/mmhead/Q3auHgzwzM435k3hbP3TC3ibWqXTdcZicsupdDoMwEL6oruB2mh1icoDw/0"||(window.location.protocol+"//"+window.location.host + "//res.wx.qq.com/mmbizwap/en_US/htmledition/images/pic/appmsg/pic_rumor_link.2x264e77.jpg")
-    };
-    var _empty_v = "//res.wx.qq.com/mmbizwap/en_US/htmledition/images/pic/pages/voice/empty26f1f1.mp3";
-
-    var copyright_stat = "0" * 1;
-
-    var pay_fee = "" * 1;
-    var pay_timestamp = "";
-    var need_pay = "" * 1;
-
-    var need_report_cost = "0" * 1;
-    var use_tx_video_player = "0" * 1;
-    var appmsg_fe_filter = "contenteditable";
-
-    var friend_read_source = "" || "";
-    var friend_read_version = "" || "";
-    var friend_read_class_id = "" || "";
-
-    var is_only_read = "1" * 1;
-    var read_num = "" * 1;
-    var like_num = "" * 1;
-    var liked = "" == 'true' ? true : false;
-    var is_temp_url = "" ? 1 : 0;
-    var send_time = "";
-    var icon_emotion_switch = "//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/appmsg/emotion/icon_emotion_switch.2x2f1273.png";
-    var icon_emotion_switch_active = "//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/appmsg/emotion/icon_emotion_switch_active.2x2f1273.png";
-    var icon_loading_white = "//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/common/icon_loading_white2805ea.gif";
-    var icon_audio_unread = "//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/appmsg/audio/icon_audio_unread26f1f1.png";
-    var icon_qqmusic_default = "//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/appmsg/qqmusic/icon_qqmusic_default.2x26f1f1.png";
-    var icon_qqmusic_source = "//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/appmsg/qqmusic/icon_qqmusic_source393e3a.png";
-    var icon_kugou_source = "//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/appmsg/kugou/icon_kugou_source393e3a.png";
-
-    var topic_default_img = '//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/appmsg/topic/pic_book_thumb.2x2e4988.png';
-    var comment_edit_icon = '//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/appmsg_new/icon_edit36906d.png';
-    var comment_loading_img = '//res.wx.qq.com/mmbizwap/en_US/htmledition/images/icon/common/icon_loading_white2805ea.gif';
-
-    var voice_in_appmsg = {
-        "1":"1"
-            };
-
-    var reprint_style = ''*1;
-    var wxa_img_alert = "" != 'false';
-
-
-
-
-
-
-
-    var weapp_sn_arr_json = "" || "";
-
-
-    var ban_scene = "0" * 1;
-
-    var svr_time = "1533552473" * 1;
-
-    var is_transfer_msg = ""*1||0;
-
-    var malicious_title_reason_id = "0" * 1;
-    var malicious_content_type = "0" * 1;
-
-
-    var modify_time = "";
-
-
-    var hotspotInfoList = [
-                    ];
-
-        window.wxtoken = "777";
-
-
-
-
-
-    window.is_login = '0' * 1;
-
-    window.__moon_initcallback = function(){
-        if(!!window.__initCatch){
-            window.__initCatch({
-                idkey : 27611+2,
-                startKey : 0,
-                limit : 128,
-                badjsId: 43,
-                reportOpt : {
-                    uin : uin,
-                    biz : biz,
-                    mid : mid,
-                    idx : idx,
-                    sn  : sn
-                },
-                extInfo : {
-                    network_rate : 0.01,
-                    badjs_rate: 0.1
-                }
-            });
-        }
-    }
-
-    var title ="里尔学联UCECL";
-
-
-    var is_new_msg=true;
-</script>
-
-        <script nonce="1969307980">window.__moon_host = 'res.wx.qq.com';window.__moon_mainjs = 'appmsg/index.js';window.moon_map = {"new_video/player.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/new_video/player.html3dd295.js","biz_wap/zepto/touch.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/zepto/touch3a696a.js","biz_wap/zepto/event.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/zepto/event3a696a.js","biz_wap/zepto/zepto.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/zepto/zepto3a696a.js","page/pages/video.css":"//res.wx.qq.com/mmbizwap/en_US/htmledition/style/page/pages/video.css3de35e.js","a/appdialog_confirm.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/appdialog_confirm.html3a696a.js","widget/wx_profile_dialog_primary.css":"//res.wx.qq.com/mmbizwap/en_US/htmledition/style/widget/wx_profile_dialog_primary.css3de35e.js","a/tpl/new_cpc_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/tpl/new_cpc_tpl.html3f87f1.js","appmsg/emotion/caret.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/emotion/caret3a696a.js","new_video/player.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/new_video/player3f44c3.js","a/appdialog_confirm.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/appdialog_confirm3a696a.js","a/tpl/crt_size_map.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/tpl/crt_size_map3f87f1.js","biz_wap/jsapi/cardticket.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/jsapi/cardticket3a696a.js","biz_common/jquery.md5.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/jquery.md53a696a.js","biz_wap/utils/localstorage.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/localstorage3a696a.js","appmsg/friend_comment_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/friend_comment_tpl.html3de35e.js","appmsg/comment_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/comment_tpl.html3de35e.js","biz_wap/utils/fakehash.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/fakehash3a696a.js","appmsg/comment_report.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/comment_report3d5604.js","biz_common/utils/emoji_panel_data.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/emoji_panel_data3a696a.js","biz_common/utils/emoji_data.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/emoji_data3a696a.js","appmsg/emotion/textarea.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/emotion/textarea3d171f.js","appmsg/emotion/nav.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/emotion/nav3a696a.js","appmsg/emotion/common.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/emotion/common3a696a.js","appmsg/emotion/slide.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/emotion/slide3a696a.js","appmsg/emotion/dom.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/emotion/dom3a696a.js","biz_common/utils/wxgspeedsdk.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/wxgspeedsdk3a696a.js","pages/music_report_conf.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/music_report_conf3c6d6f.js","pages/report.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/report3d3b86.js","pages/player_adaptor.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/player_adaptor3a696a.js","pages/music_player.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/music_player3d3b86.js","a/video.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/video3ebd5e.js","a/sponsor.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/sponsor3ec2ed.js","a/ios.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/ios3a696a.js","a/android.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/android3a696a.js","a/profile.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/profile3f3f8a.js","a/app_card.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/app_card3f87f1.js","a/tpl/cpc_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/tpl/cpc_tpl.html3f87f1.js","a/tpl/crt_tpl_manager.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/tpl/crt_tpl_manager3f87f1.js","a/cpc_a_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/cpc_a_tpl.html3e57e8.js","a/sponsor_a_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/sponsor_a_tpl.html3ec2ed.js","a/a_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/a_tpl.html3ec2ed.js","a/mpshop.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/mpshop3a696a.js","a/wxopen_card.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/wxopen_card3e0b1e.js","a/card.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/card3a696a.js","biz_wap/utils/position.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/position3a696a.js","a/a_report.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/a_report3eeb33.js","a/a_sign.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/a_sign3f87f1.js","pages/loadscript.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/loadscript3d3b86.js","biz_wap/utils/ajax_load_js.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/ajax_load_js3d3b86.js","appmsg/comment.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/comment3e3c70.js","appmsg/my_comment_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/my_comment_tpl.html3ec992.js","appmsg/cmt_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/cmt_tpl.html3de35e.js","sougou/a_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/sougou/a_tpl.html3a696a.js","appmsg/emotion/emotion.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/emotion/emotion3f5bf5.js","biz_wap/utils/wapsdk.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/wapsdk3a696a.js","biz_common/utils/report.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/report3a696a.js","appmsg/open_url_with_webview.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/open_url_with_webview3d3b86.js","appmsg/articleReport.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/articleReport3de35e.js","biz_wap/utils/hand_up_state.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/hand_up_state3e72f4.js","biz_common/utils/http.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/http3a696a.js","biz_common/utils/cookie.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/cookie3a696a.js","appmsg/topic_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/topic_tpl.html3a696a.js","pages/weapp_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/weapp_tpl.html3a696a.js","biz_common/utils/monitor.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/monitor3a696a.js","pages/voice_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/voice_tpl.html3a696a.js","pages/kugoumusic_ctrl.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/kugoumusic_ctrl3d171f.js","pages/qqmusic_ctrl.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/qqmusic_ctrl3d171f.js","pages/voice_component.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/voice_component3d3efa.js","pages/qqmusic_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/qqmusic_tpl.html3a696a.js","new_video/ctl.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/new_video/ctl3f44c3.js","a/testdata.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/testdata3bb523.js","appmsg/reward_entry.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/reward_entry3ebded.js","appmsg/like.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/like3d171f.js","pages/version4video.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/version4video3de208.js","a/a.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/a/a3f8915.js","rt/appmsg/getappmsgext.rt.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/rt/appmsg/getappmsgext.rt3a696a.js","biz_wap/utils/storage.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/storage3a696a.js","appmsg/share_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/share_tpl.html3a696a.js","appmsg/appmsgext.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/appmsgext3f170d.js","appmsg/img_copyright_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/img_copyright_tpl.html3a696a.js","pages/video_ctrl.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/video_ctrl3d3b86.js","pages/create_txv.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/pages/create_txv3d43f7.js","appmsg/comment_utils.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/comment_utils3d171f.js","biz_common/ui/imgonepx.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/ui/imgonepx3a696a.js","appmsg/malicious_wording.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/malicious_wording3dd66a.js","biz_common/utils/respTypes.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/respTypes3a696a.js","biz_wap/utils/log.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/log3a696a.js","sougou/index.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/sougou/index3a696a.js","biz_wap/safe/mutation_observer_report.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/safe/mutation_observer_report3a696a.js","appmsg/fereport.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/fereport3df470.js","appmsg/fereport_without_localstorage.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/fereport_without_localstorage3df470.js","appmsg/report.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/report3d6a61.js","appmsg/report_and_source.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/report_and_source3f3254.js","appmsg/page_pos.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/page_pos3ecdbd.js","appmsg/cdn_speed_report.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/cdn_speed_report3d6a61.js","appmsg/wxtopic.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/wxtopic3a696a.js","appmsg/weapp.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/weapp3f1801.js","appmsg/weproduct.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/weproduct3f868a.js","appmsg/voicemsg.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/voicemsg3b1748.js","appmsg/autoread.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/autoread3af14e.js","appmsg/voice.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/voice3a696a.js","appmsg/qqmusic.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/qqmusic3d171f.js","appmsg/iframe.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/iframe3d43f7.js","appmsg/product.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/product3a696a.js","appmsg/review_image.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/review_image3f813d.js","appmsg/outer_link.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/outer_link3e0907.js","appmsg/copyright_report.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/copyright_report3a696a.js","appmsg/async.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/async3ec3b1.js","biz_wap/ui/lazyload_img.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/ui/lazyload_img3af55b.js","biz_common/log/jserr.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/log/jserr3a696a.js","appmsg/share.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/share3e25ce.js","appmsg/cdn_img_lib.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/cdn_img_lib3de0e1.js","biz_common/utils/url/parse.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/url/parse3a696a.js","page/appmsg/not_in_mm.css":"//res.wx.qq.com/mmbizwap/en_US/htmledition/style/page/appmsg/not_in_mm.css3ec992.js","page/appmsg_new/not_in_mm.css":"//res.wx.qq.com/mmbizwap/en_US/htmledition/style/page/appmsg_new/not_in_mm.css3ec992.js","page/appmsg_new/combo.css":"//res.wx.qq.com/mmbizwap/en_US/htmledition/style/page/appmsg_new/combo.css3f87f1.js","appmsg/appmsg_report.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/appmsg_report3dae34.js","biz_common/moment.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/moment3a696a.js","biz_wap/jsapi/core.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/jsapi/core3d3b86.js","biz_common/dom/event.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/dom/event3a696a.js","appmsg/test.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/test3d3b86.js","biz_wap/utils/mmversion.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/mmversion3de208.js","appmsg/max_age.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/max_age3d3b86.js","biz_common/dom/attr.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/dom/attr3a696a.js","biz_wap/utils/ajax.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/ajax3d3b86.js","appmsg/log.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/log3a696a.js","biz_common/dom/class.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/dom/class3a696a.js","biz_wap/utils/device.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_wap/utils/device3e2bd8.js","appmsg/weapp_common.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/weapp_common3f868a.js","biz_common/utils/string/html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/utils/string/html3a696a.js","cps/tpl/list_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/cps/tpl/list_tpl.html3f868a.js","cps/tpl/card_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/cps/tpl/card_tpl.html3f868a.js","cps/tpl/banner_tpl.html.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/cps/tpl/banner_tpl.html3f868a.js","biz_common/tmpl.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/biz_common/tmpl3a696a.js","appmsg/index.js":"//res.wx.qq.com/mmbizwap/en_US/htmledition/js/appmsg/index3f88f3.js"};</script><script nonce="1969307980" type="text/javascript" id="moon_inline" > window.__mooninline=1; window.setTimeout(function() {  function __moonf__(){
-
-if(!window.**moonhasinit){
-window.**moonhasinit=!0,window.**moonclientlog=\[],window.**wxgspeeds&&(window.**wxgspeeds.moonloadedtime=+new Date),
-"object"!=typeof JSON&&(window.JSON={
-stringify:function(){
-return"";
-},
-parse:function(){
-return{};
-}
-});
-var e=function(){
-function e(e){
-try{
-var o;
-/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)?o="writeLog":/(Android)/i.test(navigator.userAgent)&&(o="log"),
-o&&t(o,e);
-}catch(n){
-throw console.error(n),n;
-}
-}
-function t(e,o){
-var n,r,i={};
-n=top!=window?top.window:window;
-try{
-r=n.WeixinJSBridge,i=n.document;
-}catch(a){}
-e&&r&&r.invoke?r.invoke(e,{
-level:"info",
-msg:"[WechatFe][moon]"+o
-}):setTimeout(function(){
-i.addEventListener?i.addEventListener("WeixinJSBridgeReady",function(){
-t(e,o);
-},!1):i.attachEvent&&(i.attachEvent("WeixinJSBridgeReady",function(){
-t(e,o);
-}),i.attachEvent("onWeixinJSBridgeReady",function(){
-t(e,o);
-}));
-},0);
-}
-var n;
-localStorage&&JSON.parse(localStorage.getItem("**WXLS**moonarg"))&&"fromls"==JSON.parse(localStorage.getItem("**WXLS**moonarg")).method&&(n=!0),
-e(" moon init, moon_inline:"+window.**mooninline+", moonls:"+n),function(){
-var e={},o={},t={};
-e.COMBO_UNLOAD=0,e.COMBO_LOADING=1,e.COMBO_LOADED=2;
-var n=function(e,t,n){
-if(!o[e]){
-o[e]=n;
-for(var r=3;r--;)try{
-moon.setItem(moon.prefix+e,n.toString()),moon.setItem(moon.prefix+e+"\_ver",moon_map[e]);
-break;
-}catch(i){
-moon.clear();
-}
-}
-},r=window.alert;
-window.**alertList=\[],window.alert=function(e){
-r(e),window.**alertList.push(e);
-};
-var i=function(e){
-if(!e||!o[e])return null;
-var n=o[e];
-if("function"==typeof n&&!t[e]){
-var a={},s={
-exports:a
-},c=n(i,a,s,r);
-n=o[e]=c||s.exports,t[e]=!0;
-}
-if(".css"===e.substr(-4)){
-var d=document.getElementById(e);
-if(!d){
-d=document.createElement("style"),d.id=e;
-var _=/url\\s_(\\s_\\/(\\"(?:[^\\\"\r\n\f]\|\\[\s\S])_\\"|'(?:[^\\'\n\r\f]\|\\[\s\S])_'|[^)}]+)\\s_)/g,m=window.testenv_reshost||window.\_\_moon_host||"res.wx.qq.com";
-n=n.replace(_,"url(//"+m+"/$1)"),d.innerHTML=n,document.getElementsByTagName("head")[0].appendChild(d);
-}
-}
-return n;
-};
-e.combo_status=e.COMBO_UNLOAD,e.run=function(){
-var o=e.run.info,t=o&&o[0],n=o&&o[1];
-if(t&&e.combo_status==e.COMBO_LOADED){
-var r=i(t);
-n&&n(r);
-}
-},e.use=function(o,t){
-window.**wxgspeeds&&(window.**wxgspeeds.seajs_use_time=+new Date),e.run.info=[o,t],
-e.run();
-},window.define=n,window.seajs=e;
-}(),function(){
-if(window.**nonce_str){
-var e=document.createElement;
-document.createElement=function(o){
-var t=e.apply(this,arguments);
-return"object"==typeof o&&(o=o.toString()),"string"==typeof o&&"script"==o.toLowerCase()&&t.setAttribute("nonce",window.**nonce_str),
-t;
-};
-}
-window.addEventListener&&window.**DEBUGINFO&&Math.random()&lt;.01&&window.addEventListener("load",function(){
-var e=document.createElement("script");
-e.src=**DEBUGINFO.safe_js,e.type="text/javascript",e.async=!0;
-var o=document.head||document.getElementsByTagName("head")[0];
-o.appendChild(e);
-});
-}(),function(){
-function t(e){
-return"[object Array]"===Object.prototype.toString.call(e);
-}
-function n(e){
-return"[object Object]"===Object.prototype.toString.call(e);
-}
-function r(e){
-var t=e.stack+" "+e.toString()||"";
-try{
-if(window.testenv_reshost){
-var n="http(s)?://"+window.testenv_reshost,r=new RegExp(n,"g");
-t=t.replace(r,"");
-}else t=t.replace(/http(s)?:\\/\\/res.wx.qq.com/g,"");
-for(var r=/\\/([^.]+)\\/js\\/(\\S+?).js(\\,|:)?/g;r.test(t);)t=t.replace(r,function(e,o,t,n){
-return t+n;
-});
-}catch(e){
-t=e.stack?e.stack:"";
-}
-var i=\[];
-for(o in u)u.hasOwnProperty(o)&&i.push(o+":"+u[o]);
-return i.push("STK:"+t.replace(/\\n/g,"")),i.join("|");
-}
-function i(e){
-if(!e){
-var o=window.onerror;
-window.onerror=function(){},f=setTimeout(function(){
-window.onerror=o,f=null;
-},50);
-}
-}
-function a(e,o,t){
-if(!/^mp.weixin.qq.com$/.test(location.hostname)){
-var n=\[];
-t=t.replace(location.href,(location.origin||"")+(location.pathname||"")).replace("#wechat_redirect","").replace("#rd","").split("&");
-for(var r=0,i=t.length;i>r;r++){
-var a=t[r].split("=");
-a[0]&&a[1]&&n.push(a[0]+"="+encodeURIComponent(a[1]));
-}
-var s=new window.Image;
-return void(s.src=(o+n.join("&")).substr(0,1024));
-}
-var c;
-if(window.ActiveXObject)try{
-c=new ActiveXObject("Msxml2.XMLHTTP");
-}catch(d){
-try{
-c=new ActiveXObject("Microsoft.XMLHTTP");
-}catch(_){
-c=!1;
-}
-}else window.XMLHttpRequest&&(c=new XMLHttpRequest);
-c&&(c.open(e,o,!0),c.setRequestHeader("cache-control","no-cache"),c.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),
-c.setRequestHeader("X-Requested-With","XMLHttpRequest"),c.send(t));
-}
-function s(e){
-return function(o,t){
-if("string"==typeof o)try{
-o=new Function(o);
-}catch(n){
-throw n;
-}
-var r=\[].slice.call(arguments,2),a=o;
-return o=function(){
-try{
-return a.apply(this,r.length&&r||arguments);
-}catch(e){
-throw e.stack&&console&&console.error&&console.error("[TryCatch]"+e.stack),_&&window.**moon_report&&(window.**moon_report([{
-offset:O,
-log:"timeout_error;host:"+location.host,
-e:e
-}]),i(f)),e;
-}
-},e(o,t);
-};
-}
-function c(e){
-return function(o,t,n){
-if("undefined"==typeof n)var n=!1;
-var r=this,a=t||function(){};
-return t=function(){
-try{
-return a.apply(r,arguments);
-}catch(e){
-throw e.stack&&console&&console.error&&console.error("[TryCatch]"+e.stack),_&&window.**moon_report&&(window.**moon_report([{
-offset:y,
-log:"listener_error;type:"+o+";host:"+location.host,
-e:e
-}]),i(f)),e;
-}
-},a.moon_lid=b,D[b]=t,b++,e.call(r,o,t,n);
-};
-}
-function d(e){
-return function(o,t,n){
-if("undefined"==typeof n)var n=!1;
-var r=this;
-return t=D[t.moon_lid],e.call(r,o,t,n);
-};
-}
-var _,m,l,w,u,p,f,h=/MicroMessenger/i.test(navigator.userAgent),g=window.define,v=0,y=2,x=4,O=9,j=10;
-if(window.**initCatch=function(e){
-\_=e.idkey,m=e.startKey||0,l=e.limit,w=e.badjsId,u=e.reportOpt||"",p=e.extInfo||{},
-p.rate=p.rate||.5;
-},window.**moon_report=function(e,o){
-var i=!1,s="";
-try{
-s=top.location.href;
-}catch(c){
-i=!0;
-}
-var d=.5;
-if(p&&p.rate&&(d=p.rate),o&&"number"==typeof o&&(d=o),!(!/mp.weixin.qq.com/.test(location.href)&&!/payapp.weixin.qq.com/.test(location.href)||Math.random()>d)&&h&&(top==window||i||/mp.weixin.qq.com/.test(s))&&(n(e)&&(e=[e]),
-t(e)&&""!=_)){
-var u="",f=\[],g=\[],v=\[],y=\[];
-"number"!=typeof l&&(l=1/0);
-for(var O=0;O&lt;e.length;O++){
-var j=e[O]||{};
-if(!(j.offset>l||"number"!=typeof j.offset||j.offset==x&&p&&p.network_rate&&Math.random()>=p.network_rate)){
-var D=1/0==l?m:m+j.offset;
-f[O]="[moon]"+_+"_"+D+";"+j.log+";"+r(j.e||{})||"",g[O]=D,v[O]=1;
-}
-}
-for(var b=0;b&lt;g.length;b++)y[b]=_+"_"+g[b]+"_"+v[b],u=u+"&log"+b+"="+f[b];
-if(y.length>0){
-a("POST",location.protocol+"//mp.weixin.qq.com/mp/jsmonitor?","idkey="+y.join(";")+"&r="+Math.random()+"&lc="+f.length+u);
-var d=1;
-if(p&&p.badjs_rate&&(d=p.badjs_rate),w&&Math.random()&lt;d){
-u=u.replace(/uin\\:(.)_\|biz\\:(.)_\|mid\\:(.)_\|idx\\:(.)_\|sn\\:(.)_\|/,"");
-var E=new Image,S="<https://badjs.weixinbridge.com/badjs?id="+w+"&level=4&from="+encodeURIComponent(location.host)+"&msg="+encodeURIComponent(u)>;
-E.src=S.slice(0,1024);
-}
-}
-}
-},window.setTimeout=s(window.setTimeout),window.setInterval=s(window.setInterval),
-Math.random()&lt;.01&&window.Document&&window.HTMLElement){
-var D={},b=0;
-Document.prototype.addEventListener=c(Document.prototype.addEventListener),Document.prototype.removeEventListener=d(Document.prototype.removeEventListener),
-HTMLElement.prototype.addEventListener=c(HTMLElement.prototype.addEventListener),
-HTMLElement.prototype.removeEventListener=d(HTMLElement.prototype.removeEventListener);
-}
-var E=window.navigator.userAgent;
-if((/ip(hone|ad|od)/i.test(E)||/android/i.test(E))&&!/windows phone/i.test(E)&&window.localStorage&&window.localStorage.setItem){
-var S=window.localStorage.setItem,I=0;
-window.localStorage.setItem=function(e,o){
-if(!(I>=10))try{
-S.call(window.localStorage,e,o);
-}catch(t){
-t.stack&&console&&console.error&&console.error("[TryCatch]"+t.stack),window.**moon_report([{
-offset:j,
-log:"localstorage_error;"+t.toString(),
-e:t
-}]),I++,I>=3&&window.moon&&window.moon.clear&&moon.clear();
-}
-};
-}
-window.seajs&&g&&(window.define=function(){
-for(var o,t=\[],n=arguments&&arguments[0],a=0,s=arguments.length;s>a;a++){
-var c=o=arguments[a];
-"function"==typeof o&&(o=function(){
-try{
-return c.apply(this,arguments);
-}catch(o){
-throw"string"==typeof n&&console.error("[TryCatch][defineeerr]id:"+n),o.stack&&console&&console.error&&console.error("[TryCatch]"+o.stack),
-_&&window.**moon_report&&(window.**moon_report([{
-offset:v,
-log:"define_error;id:"+n+";",
-e:o
-}]),i(f)),e(" [define_error]"+JSON.stringify(r(o))),o;
-}
-},o.toString=function(e){
-return function(){
-return e.toString();
-};
-}(arguments[a])),t.push(o);
-}
-return g.apply(this,t);
-});
-}(),function(o){
-function t(e,o,t){
-return window.**DEBUGINFO?(window.**DEBUGINFO.res_list||(window.**DEBUGINFO.res_list=\[]),
-window.**DEBUGINFO.res_list[e]?(window.**DEBUGINFO.res_list[e][o]=t,!0):!1):!1;
-}
-function n(e){
-var o=new TextEncoder("utf-8").encode(e),t=crypto.subtle||crypto.webkitSubtle;
-return t.digest("SHA-256",o).then(function(e){
-return r(e);
-});
-}
-function r(e){
-for(var o=\[],t=new DataView(e),n=0;n&lt;t.byteLength;n+=4){
-var r=t.getUint32(n),i=r.toString(16),a="00000000",s=(a+i).slice(-a.length);
-o.push(s);
-}
-return o.join("");
-}
-function i(e,o,t){
-if("object"==typeof e){
-var n=Object.prototype.toString.call(e).replace(/^\[object (.+)]$/,function(e,o){
-return o;
-});
-if(t=t||e,"Array"==n){
-for(var r=0,i=e.length;i>r;++r)if(o.call(t,e[r],r,e)===!1)return;
-}else{
-if("Object"!==n&&a!=e)throw"unsupport type";
-if(a==e){
-for(var r=e.length-1;r>=0;r--){
-var s=a.key(r),c=a.getItem(s);
-if(o.call(t,c,s,e)===!1)return;
-}
-return;
-}
-for(var r in e)if(e.hasOwnProperty(r)&&o.call(t,e[r],r,e)===!1)return;
-}
-}
-}
-var a=o.localStorage,s=document.head||document.getElementsByTagName("head")[0],c=1,d=11,_=12,m=13,l=window.**allowLoadResFromMp?1:2,w=window.**allowLoadResFromMp?1:0,u=l+w,p=window.testenv_reshost||window.**moon_host||"res.wx.qq.com",f=new RegExp("^(http(s)?:)?//"+p);
-window.**loadAllResFromMp&&(p="mp.weixin.qq.com",l=0,u=l+w);
-var h={
-prefix:"**MOON**",
-loaded:\[],
-unload:\[],
-clearSample:!1,
-hit_num:0,
-mod_num:0,
-version:1003,
-cacheData:{
-js_mod_num:0,
-js_hit_num:0,
-js_not_hit_num:0,
-js_expired_num:0,
-css_mod_num:0,
-css_hit_num:0,
-css_not_hit_num:0,
-css_expired_num:0
-},
-init:function(){
-h.loaded=\[],h.unload=\[];
-var e,t,r;
-if(window.no_moon_ls&&(h.clearSample=!1),a){
-var s="\_moon_ver_key_",c=a.getItem(s);
-c!=h.version&&(h.clear(),a.setItem(s,h.version));
-}
-if((-1!=location.search.indexOf("no_moon1=1")||-1!=location.search.indexOf("no_lshttps=1"))&&h.clear(),
-a){
-var d=1\*a.getItem(h.prefix+"clean_time"),_=+new Date;
-if(_-d>=1296e6){
-h.clear();
-try{
-!!a&&a.setItem(h.prefix+"clean_time",+new Date);
-}catch(m){}
-}
-}
-i(moon_map,function(i,s){
-if(t=h.prefix+s,r=!!i&&i.replace(f,""),e=!!a&&a.getItem(t),version=!!a&&(a.getItem(t+"\_ver")||"").replace(f,""),
-h.mod_num++,r&&-1!=r.indexOf(".css")?h.cacheData.css_mod_num++:r&&-1!=r.indexOf(".js")&&h.cacheData.js_mod_num++,
-h.clearSample||!e||r!=version)h.unload.push(r.replace(f,"")),r&&-1!=r.indexOf(".css")?e?r!=version&&h.cacheData.css_expired_num++:h.cacheData.css_not_hit_num++:r&&-1!=r.indexOf(".js")&&(e?r!=version&&h.cacheData.js_expired_num++:h.cacheData.js_not_hit_num++);else{
-if("https&#x3A;"==location.protocol&&window.moon_hash_map&&window.moon_hash_map[s]&&window.crypto)try{
-n(e).then(function(e){
-window.moon_hash_map[s]!=e&&console.log(s);
-});
-}catch(c){}
-try{
-var d="//# sourceURL="+s+"\\n//@ sourceURL="+s;
-o.eval.call(o,'define("'+s+'",\[],'+e+")"+d),h.hit_num++,r&&-1!=r.indexOf(".css")?h.cacheData.css_hit_num++:r&&-1!=r.indexOf(".js")&&h.cacheData.js_hit_num++;
-}catch(c){
-h.unload.push(r.replace(f,""));
-}
-}
-}),h.load(h.genUrl());
-},
-genUrl:function(){
-var e=h.unload;
-if(!e||e.length&lt;=0)return\[];
-var o,t,n="",r=\[],i={},a=-1!=location.search.indexOf("no_moon2=1"),s="//"+p;
-\-1!=location.href.indexOf("moon_debug2=1")&&(s="//mp.weixin.qq.com");
-for(var c=0,d=e.length;d>c;++c){
-/^\\/(.\*?)\\//.test(e[c]);
-var _=/^\\/(.\*?)\\//.exec(e[c]);
-_.length&lt;2||!_[1]||(t=_[1],n=i[t],n?(o=n+","+e[c],o.length>1e3||a?(r.push(n+"?v="+h.version),
-n=location.protocol+s+e[c],i[t]=n):(n=o,i[t]=n)):(n=location.protocol+s+e[c],i[t]=n));
-}
-for(var m in i)i.hasOwnProperty(m)&&r.push(i[m]);
-return r;
-},
-load:function(e){
-if(window.**wxgspeeds&&(window.**wxgspeeds.mod_num=h.mod_num,window.**wxgspeeds.hit_num=h.hit_num),
-!e||e.length&lt;=0)return seajs.combo_status=seajs.COMBO_LOADED,seajs.run(),console.debug&&console.debug("[moon] load js complete, all in cache, cost time : 0ms, total count : "+h.mod_num+", hit num: "+h.hit_num),
-void window.**moonclientlog.push("[moon] load js complete, all in cache, cost time : 0ms, total count : "+h.mod_num+", hit num: "+h.hit_num);
-seajs.combo_status=seajs.COMBO_LOADING;
-var o=0,t=+new Date;
-window.**wxgspeeds&&(window.**wxgspeeds.combo_times=\[],window.**wxgspeeds.combo_times.push(t)),
-i(e,function(n){
-h.request(n,u,function(){
-if(window.**wxgspeeds&&window.**wxgspeeds.combo_times.push(+new Date),o++,o==e.length){
-var n=+new Date-t;
-window.**wxgspeeds&&(window.**wxgspeeds.mod_downloadtime=n),seajs.combo_status=seajs.COMBO_LOADED,
-seajs.run(),console.debug&&console.debug("[moon] load js complete, url num : "+e.length+", total mod count : "+h.mod_num+", hit num: "+h.hit_num+", use time : "+n+"ms"),
-window.**moonclientlog.push("[moon] load js complete, url num : "+e.length+", total mod count : "+h.mod_num+", hit num: "+h.hit_num+", use time : "+n+"ms");
-}
-});
-});
-},
-request:function(o,n,r){
-if(o){
-n=n||0,o.indexOf("mp.weixin.qq.com")>-1&&((new Image).src=location.protocol+"//mp.weixin.qq.com/mp/jsmonitor?idkey=27613_32_1&r="+Math.random(),
-window.\_\_moon_report(\[{
-offset:_,
-log:"load_script_from_mp: "+o
-}],1));
-var i=-1;
-window.**DEBUGINFO&&(**DEBUGINFO.res_list||(**DEBUGINFO.res_list=\[]),**DEBUGINFO.res_list.push({
-type:"js",
-status:"pendding",
-start:+new Date,
-end:0,
-url:o
-}),i=\_\_DEBUGINFO.res_list.length-1),-1!=location.search.indexOf("no_lshttps=1")&&(o=o.replace("<http://","https://">));
-var a=document.createElement("script");
-a.src=o,a.type="text/javascript",a.async=!0,a.down_time=+new Date,a.onerror=function(s){
-t(i,"status","error"),t(i,"end",+new Date);
-var _=new Error(s);
-if(n>=0)if(w>n){
-var l=o.replace("res.wx.qq.com","mp.weixin.qq.com");
-h.request(l,n,r);
-}else h.request(o,n,r);else window.**moon_report&&window.**moon_report(\[{
-offset:c,
-log:"load_script_error: "+o,
-e:_
-}],1);
-if(n==w-1&&window.**moon_report(\[{
-offset:d,
-log:"load_script_error: "+o,
-e:_
-}],1),-1==n){
-var u="ua: "+window.navigator.userAgent+", time="+(+new Date-a.down_time)+", load_script_error -1 : "+o;
-window.**moon_report([{
-offset:m,
-log:u
-}],1);
-}
-window.\_\_moonclientlog.push("moon load js error : "+o+", error -> "+_.toString()),
-e("moon_request_error url:"+o);
-},"undefined"!=typeof moon_crossorigin&&moon_crossorigin&&a.setAttribute("crossorigin",!0),
-a.onload=a.onreadystatechange=function(){
-t(i,"status","loaded"),t(i,"end",+new Date),!a||a.readyState&&!/loaded|complete/.test(a.readyState)||(t(i,"status","200"),
-a.onload=a.onreadystatechange=null,"function"==typeof r&&r());
-},n--,s.appendChild(a),e("moon_request url:"+o+" retry:"+n);
-}
-},
-setItem:function(e,o){
-!!a&&a.setItem(e,o);
-},
-clear:function(){
-a&&(i(a,function(e,o){
-~o.indexOf(h.prefix)&&a.removeItem(o);
-}),console.debug&&console.debug("[moon] clear"));
-},
-idkeyReport:function(e,o,t){
-t=t||1;
-var n=e+"_"+o+"\_"+t;
-(new Image).src="/mp/jsmonitor?idkey="+n+"&r="+Math.random();
-}
-};
-seajs&&seajs.use&&"string"==typeof window.**moon_mainjs&&seajs.use(window.**moon_mainjs),
-window.moon=h;
-}(window),function(){
-try{
-Math.random()&lt;1;
-}catch(e){}
-}(),window.moon.init();
-};
-e(),!!window.**moon_initcallback&&window.**moon_initcallback(),window.**wxgspeeds&&(window.**wxgspeeds.moonendtime=+new Date);
-}
-}
-**moonf**(); }, 25);</script><script nonce="1969307980" type="text/javascript">
-    var real_show_page_time = +new Date();
-    if (!!window.addEventListener){
-        window.addEventListener("load", function(){
-            window.onload_endtime = +new Date();
-        });
-    }
-
-    if(typeof seajs != 'undefined' && seajs.config){
-        try{
-            seajs.config({
-              'map': [
-                [ '.js', '.js?v='+new Date().getTime() ]
-              ]
-            });
-        }catch(e){
-            console.info('not support seajs config');
-        }
-    }
-
-</script>
-
-    </body>
-    <script nonce="1969307980" type="text/javascript">document.addEventListener("touchstart", function() {},false);</script>
-
-</html>
-<!--tailTrap<body></body><head></head><html></html>-->
-
-<h4>简介</h4>
-
-里尔中国学生学者联谊会，法语全称 Union des chercheurs et étudiants chinois en France à Lille，简称里尔学联（UCECL）。里尔学联是服务于里尔华人学生学者的非营利组织，目前设有学习部、文艺部、体育部、外联部、编宣部、秘书部、
-艺术团等七个部门。
-
-<hr>
-
-<h4>组织架构</h4>
-
-<hr>
-
-<h4>学联人事</h4>
-
-<table border="0" width="589" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td rowspan="9" width="146" height="217">
-<h5>主席团</h5>
-</td>
-<td width="140">
-<h5>主席</h5>
-</td>
-<td width="77">
-<h5>王思远</h5>
-</td>
-<td width="226">
-<h5>Inria</h5>
-</td>
-</tr>
-<tr>
-<td height="24">
-<h5>副主席（分管学习部与编宣部）</h5>
-</td>
-<td>
-<h5>胡宇晴</h5>
-</td>
-<td>
-<h5>EDHEC</h5>
-</td>
-</tr>
-<tr>
-<td height="24">
-<h5>副主席（分管体育部与秘书部）</h5>
-</td>
-<td>
-<h5>李亮</h5>
-</td>
-<td>
-<h5>Université Lille 1</h5>
-</td>
-</tr>
-<tr>
-<td height="24">
-<h5>副主席（分管文艺部与外联部）</h5>
-</td>
-<td>
-<h5>芮梦宇</h5>
-</td>
-<td>
-<h5>Polytech-Lille</h5>
-</td>
-</tr>
+</div>
+</div>
+</div>
