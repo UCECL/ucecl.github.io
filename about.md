@@ -341,11 +341,3 @@ order: 2
     <h5>Polytech-Lille</h5>
     </td>
     </tr>
-
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
