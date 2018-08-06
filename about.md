@@ -194,9 +194,7 @@ order: 2
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
     <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
-        <p style="box-sizing: border-box;">编</p>
-        <p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">宣</span></p>
-        <p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">部</span></p>
+        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">编宣部</p>
         <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
     </section>
     </section>
