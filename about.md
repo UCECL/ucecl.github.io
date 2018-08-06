@@ -6,7 +6,8 @@ order: 2
 ---
 <h3>简介</h3>
 
-里尔中国学生学者联谊会，法语全称 Union des chercheurs et étudiants chinois en France à Lille，简称里尔学联（UCECL）。
+里尔中国学生学者联谊会，法语全称 Union des chercheurs et étudiants chinois en France à Lille，简称里尔学联（UCECL）。里尔学联是服务于里尔华人学生学者的非营利组织，目前设有学习部、文艺部、体育部、外联部、编宣部、秘书部、
+艺术团等七个部门。
 
 <hr>
 
