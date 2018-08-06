@@ -94,7 +94,7 @@ order: 2
     </section></section></section></section></section></section>
 
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
-    <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+    <section class="" style="margin-top: 0.2em;margin-bottom: 0.2em;box-sizing: border-box;">
     <section class="" style="background-color: rgb(160, 160, 160);height: 1px;box-sizing: border-box;">
     </section>
     </section>
