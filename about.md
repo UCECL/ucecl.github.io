@@ -167,6 +167,8 @@ this[e](t,r);
     var write_sceen_time = (+new Date());
 </script>
 
+<section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: right;margin: 10px 0% -30px;transform: translate3d(17px, 0px, 0px);-webkit-transform: translate3d(17px, 0px, 0px);-moz-transform: translate3d(17px, 0px, 0px);-o-transform: translate3d(17px, 0px, 0px);box-sizing: border-box;"><section class="" style="display: inline-block;width: 50%;vertical-align: top;background-color: rgb(255, 255, 255);box-sizing: border-box;"><section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us"><section class="" style="text-align: center;margin-top: -10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;"><section class="" style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden !important;box-sizing: border-box;"><img data-ratio="0.3267857" data-src="https://mmbiz.qpic.cn/mmbiz_png/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0C6pa1CwFzCPeNCt3viag7QZSoRJ3LrEvmicibS0DtQJJvgzkQXgia1rWFzA/640?wx_fmt=png" data-type="png" data-w="560" style="vertical-align: middle;box-sizing: border-box;"  /></section></section></section></section></section></section></section></section></section>
+
 <div id="js_article" class="rich_media">
 
     <div id="js_top_ad_area" class="top_banner"></div>
