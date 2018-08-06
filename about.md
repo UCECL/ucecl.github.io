@@ -305,39 +305,39 @@ order: 2
     <p style="font-size: 18px">王思远</p>
     </td>
     <td width="226">
-    <h5>Inria</h5>
+    <p style="font-size: 18px">Inria</p>
     </td>
     </tr>
     <tr>
     <td height="24">
-    <h5>副主席（分管学习部与编宣部）</h5>
+    <p style="font-size: 18px">副主席（分管学习部与编宣部）</p>
     </td>
     <td>
-    <h5>胡宇晴</h5>
+    <p style="font-size: 18px">胡宇晴</p>
     </td>
     <td>
-    <h5>EDHEC</h5>
+    <p style="font-size: 18px">EDHEC</p>
     </td>
     </tr>
     <tr>
     <td height="24">
-    <h5>副主席（分管体育部与秘书部）</h5>
+    <p style="font-size: 18px">副主席（分管体育部与秘书部）</p>
     </td>
     <td>
-    <h5>李亮</h5>
+    <p style="font-size: 18px">李亮</p>
     </td>
     <td>
-    <h5>Université Lille 1</h5>
+    <p style="font-size: 18px">Université Lille 1</p>
     </td>
     </tr>
     <tr>
     <td height="24">
-    <h5>副主席（分管文艺部与外联部）</h5>
+    <p style="font-size: 18px">副主席（分管文艺部与外联部）</p>
     </td>
     <td>
-    <h5>芮梦宇</h5>
+    <p style="font-size: 18px">芮梦宇</p>
     </td>
     <td>
-    <h5>Polytech-Lille</h5>
+    <p style="font-size: 18px">Polytech-Lille</p>
     </td>
     </tr>
