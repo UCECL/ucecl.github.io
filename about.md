@@ -296,13 +296,13 @@ order: 2
     <tbody>
     <tr>
     <td rowspan="9" width="146" height="217">
-    <h5>主席团</h5>
+    <p style="font-size: 18px">主席团</p>
     </td>
     <td width="140">
-    <h5>主席</h5>
+    <p style="font-size: 18px">主席</p>
     </td>
     <td width="77">
-    <h5>王思远</h5>
+    <p style="font-size: 18px">王思远</p>
     </td>
     <td width="226">
     <h5>Inria</h5>
