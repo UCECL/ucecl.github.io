@@ -41,7 +41,7 @@ order: 2
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin-top: 25px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
     <section class="" style="font-size: 18px;color: rgb(98, 82, 63);box-sizing: border-box;">
-        <p style="box-sizing: border-box;"><strong style="box-sizing: border-box;">学联简介</strong></p>
+        <p style="box-sizing: border-box;"><strong style="box-sizing: border-box;">简介</strong></p>
     </section>
     </section>
     </section>
