@@ -29,39 +29,39 @@ order: 2
 <h4>王思远</h4>
 </td>
 <td width="226">
-<h4></h4>
+<h4>Inria</h4>
 </td>
 </tr>
 <tr>
 <td height="24">
-<h4>副主席</h4>
+<h4>副主席（分管学习部与编宣部）</h4>
 </td>
 <td>
-<h4></h4>
+<h4>胡宇晴</h4>
 </td>
 <td>
-<h4></h4>
+<h4>EDHEC</h4>
 </td>
 </tr>
 <tr>
 <td height="24">
-<h4>副主席</h4>
+<h4>副主席（分管体育部与秘书部）</h4>
 </td>
 <td>
-<h4></h4>
+<h4>李亮</h4>
 </td>
 <td>
-<h4></h4>
+<h4>Université Lille 1</h4>
 </td>
 </tr>
 <tr>
 <td height="24">
-<h4>副主席</h4>
+<h4>副主席（分管文艺部与外联部）</h4>
 </td>
 <td>
-<h4></h4>
+<h4>芮梦宇</h4>
 </td>
 <td>
-<h4></h4>
+<h4>Polytech-Lille</h4>
 </td>
 </tr>
