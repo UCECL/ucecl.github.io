@@ -17,11 +17,9 @@ order: 2
 <div id="page-content" class="rich_media_area_primary">
 <div class="rich_media_area_primary_inner">
 <div class="rich_media_content " id="js_content">
-    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;"powered-by="xiumi.us">
     <section class="" style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
     <section class="" style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden !important;box-sizing: border-box;">
         <img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/WgLiaMVghAqDApA6usg9jbFmWrPLIMv0CqxoYmjBLkW9QeGaTTZ9l0JyDvPyKpwlvic2Uk1cJLOwXNRGxPgszNMA/640?wx_fmt=jpeg" data-type="jpeg" data-w="640" style="vertical-align: middle;box-sizing: border-box;"/>
-    </section>
     </section>
     </section>
 
