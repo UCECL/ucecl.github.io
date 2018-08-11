@@ -4,6 +4,25 @@ icon: fa-envelope
 order: 4
 ---
 
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+
 <p>请关注我们的微信公众号: ucecl_lierxuelian，或者扫描屏幕底部的二维码，也可以点击并关注屏幕左下方我们的脸书主页链接。</p>
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
