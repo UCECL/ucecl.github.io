@@ -4,6 +4,31 @@ icon: fa-envelope
 order: 4
 ---
 
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 0px;
+}
+
+.column2 {
+    float: left;
+    width: 25%;
+    padding: 20px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+
 <p>请关注我们的微信公众号: ucecl_lierxuelian，或者扫描屏幕底部的二维码，也可以点击并关注屏幕左下方我们的脸书主页链接。</p>
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
@@ -18,3 +43,30 @@ order: 4
     </div>
   </div>
 </form>
+
+<div class="row">
+ <div class="column">
+   <img src="assets/images/pangniu.jpg" alt="pangniu" style="width:80%">
+ </div>
+ <div class="column">
+   <img src="assets/images/cice.jpg" alt="cice" style="width:70%">
+ </div>
+ <div class="column">
+   <img src="assets/images/ppost.jpg" alt="ppost" style="width:99%">
+ </div>
+</div>
+
+<div class="row">
+ <div class="column2">
+   <img src="" alt="" style="width:100%">
+ </div>
+ <div class="column2">
+   <img src="assets/images/airfrance.jpg" alt="airfrance" style="width:100%">
+ </div>
+ <div class="column2">
+   <img src="assets/images/printemps.jpg" alt="printemps" style="width:100%">
+ </div>
+ <div class="column2">
+   <img src="" alt="" style="width:100%">
+ </div>
+</div>
