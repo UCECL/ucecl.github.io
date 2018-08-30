@@ -26,7 +26,7 @@ a.link:link {
 }
 
 .font-style1 {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     color: #FFFFFF;
 }
