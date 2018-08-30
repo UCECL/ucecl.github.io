@@ -7,8 +7,8 @@ order: 4
 ---
 
 <style>
-.bg {
-    background-image: url(assets/images/dates/0923.jpg);
+.bg1 {
+    background-image: url(assets/images/dates/0923.png);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 180px 200px;
@@ -48,7 +48,7 @@ a.link:link {
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolordark="#FFFFFF" bordercolorlight="#000000" style="word-break:break-all;">
 
               <tr>
-                <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg">
+                <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg1">
                 <!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td height="30" align="center"><span class="font-style1">09月</span></td>
