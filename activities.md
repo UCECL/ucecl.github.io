@@ -16,7 +16,7 @@ order: 4
 a.link:link {
     color: #0071bc;
     text-decoration: none;
-    font-size: 12px;
+    font-size: 18px;
 }
 
 .dot {
@@ -47,7 +47,8 @@ a.link:link {
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolordark="#FFFFFF" bordercolorlight="#000000" style="word-break:break-all;">
 
               <tr>
-                <td width="121" height="87" rowspan="2" align="left" valign="top" class="bg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td height="30" align="center"><span class="font-style1">09月</span></td>
                   </tr>
@@ -56,7 +57,7 @@ a.link:link {
                   </tr>
                 </table></td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="#" target="_blank" class="x">2018里尔学联中秋晚会暨迎新活动</a></td>
+                <td height="26" align="left" valign="top"><a href="#" target="_blank">2018里尔学联中秋晚会暨迎新活动</a></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
@@ -68,7 +69,7 @@ a.link:link {
                   </tr>
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
-                    <td class="STYLE14">Bistrot Tao, 126 Rue du Molinel, 59800 Lille</td>
+                    <td>Bistrot Tao, 126 Rue du Molinel, 59800 Lille</td>
                     <td align="right"><a href="https://www.billetweb.fr/fete-de-la-mi-automne" target="_blank" class="link">报名链接&gt;</a></td>
                   </tr>
                 </table></td>
