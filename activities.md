@@ -11,7 +11,7 @@ order: 4
     background-image: url(assets/images/dates/0923.png);
     background-repeat: no-repeat;
     background-position: center top;
-    background-size: 180px 200px;
+    background-size: contain;
 }
 
 a.link:link {
