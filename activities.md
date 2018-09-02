@@ -8,7 +8,7 @@ order: 4
 
 <style>
 .bg1 {
-    background-image: url(assets/images/dates/0923.png);
+    background-image: url(assets/images/background.png);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: contain;
@@ -49,17 +49,17 @@ a.link:link {
 
               <tr>
                 <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg1">
-                <!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td height="30" align="center"><span class="font-style1">09月</span></td>
                   </tr>
                   <tr>
                     <td height="65" align="center"><span class="font-style2">23日</span></td>
                   </tr>
-                </table> -->
+                </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="#" target="_blank">2018里尔学联中秋晚会暨迎新活动</a></td>
+                <td height="26" align="left" valign="top"><a href="#" target="_blank">2018里尔学联中秋晚会暨迎新活动</a><blink>进行中</blink></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
