@@ -60,7 +60,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="#" target="_blank">2018里尔学联中秋晚会暨迎新活动 </a><blink><small>进行中</small></blink></td>
+                <td height="26" align="left" valign="top"><a href="#" target="_blank">2018里尔学联中秋晚会暨迎新活动 </a><blink><font size="2">进行中</font></blink></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
@@ -102,7 +102,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="#" target="_blank">2018里尔学联春节联欢晚会 </a><p class="link">已结束</p></td>
+                <td height="26" align="left" valign="top"><a href="#" target="_blank">2018里尔学联春节联欢晚会 </a><small>已结束</small></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
