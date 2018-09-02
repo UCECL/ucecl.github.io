@@ -74,7 +74,7 @@ a.link:link {
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
                     <td>Bistrot Tao, 126 Rue du Molinel, 59800 Lille</td>
-                    <td align="right"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7ikeECsrU8U_vliu1Jn442gU_N8rPQk1QlikDxdEKdm_XBw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><a href="https://www.billetweb.fr/fete-de-la-mi-automne" target="_blank" class="link">报名链接&gt;</a></td>
+                    <td align="right"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7ikeECsrU8U_vliu1Jn442gU_N8rPQk1QlikDxdEKdm_XBw/viewform?usp=sf_link" target="_blank" class="link">报名链接&gt;</a></td>
                   </tr>
                 </table>
                 </td>
