@@ -74,7 +74,7 @@ a.link:link {
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
                     <td>Université Lille 3</td>
-                    <td align="right"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7ikeECsrU8U_vliu1Jn442gU_N8rPQk1QlikDxdEKdm_XBw/viewform?usp=sf_link" target="_blank" class="link">报名链接&gt;</a></td>
+                    <td align="right"><a href="https://goo.gl/forms/KvfZilX36wsgLe662" target="_blank" class="link">报名链接&gt;</a></td>
                   </tr>
                 </table>
                 </td>
