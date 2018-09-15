@@ -50,14 +50,15 @@ a.link:link {
               <tr>
                 <td width="12" align="left">&nbsp;</td>
                 <td height="26" align="left" valign="top">[留学生涯] <a href="https://mp.weixin.qq.com/s/--9d93wEbLYoxZSUh6asHw" target="_blank">EDHEC新生入学指南</a></td>
+                <td align="right">2018年8月24日</td>
               </tr>
               <tr>
                 <td align="left" class="dot"></td>
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		      <tr>
-    		      <td align="left"></td>
+    		  <tr>
+    		    <td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
@@ -71,8 +72,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		      <tr>
-    		      <td align="left"></td>
+    		    <tr>
+    		    <td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
@@ -86,8 +87,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		      <tr>
-    		      <td align="left"></td>
+    		    <tr>
+    		    <td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
@@ -101,8 +102,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		      <tr>
-    		      <td align="left"></td>
+    		    <tr>
+    		    <td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
