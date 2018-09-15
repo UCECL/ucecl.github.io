@@ -130,6 +130,7 @@ a.link:link {
               <tr>
                 <td width="12" align="left">&nbsp;</td>
                 <td height="26" align="left" valign="top">[生活贴士] <a href="https://mp.weixin.qq.com/s/SH4cC8AWgNySYW6mQMjLew" target="_blank">手把手教你申请Récépissé</a></td>
+                <td align="right">2018年06月25日</td>
               </tr>
               <tr>
                 <td align="left" class="dot"></td>
