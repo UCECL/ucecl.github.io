@@ -60,7 +60,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="#" target="_blank">2018里尔学联中秋晚会暨迎新活动 </a><blink><font size="3">进行中</font></blink></td>
+                <td height="26" align="left" valign="top"><a href="#" target="_blank">2018里尔学联中秋迎新活动 </a><blink><font size="3">进行中</font></blink></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
@@ -73,7 +73,7 @@ a.link:link {
                   </tr>
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
-                    <td>Bistrot Tao, 126 Rue du Molinel, 59800 Lille</td>
+                    <td>Université Lille 3</td>
                     <td align="right"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7ikeECsrU8U_vliu1Jn442gU_N8rPQk1QlikDxdEKdm_XBw/viewform?usp=sf_link" target="_blank" class="link">报名链接&gt;</a></td>
                   </tr>
                 </table>
