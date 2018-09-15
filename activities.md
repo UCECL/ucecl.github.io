@@ -68,7 +68,7 @@ a.link:link {
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="35" height="30" align="center"><img src="assets/images/time.png" width="17" height="17"></td>
-                    <td>18h-21h</td>
+                    <td>15h</td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
