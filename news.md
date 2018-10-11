@@ -62,6 +62,21 @@ a.link:link {
                 <td height="25" align="left"></td>
               </tr>
 
+              <tr>
+                <td width="12" align="left">&nbsp;</td>
+                <td height="26" align="left" valign="top">[2018年5月17日] <a href="https://mp.weixin.qq.com/s/ISnz2Go9zusfEfq2cKQY9Q" target="_blank">里尔学联成功召开换届会议</a></td>
+              </tr>
+              <tr>
+                <td align="left" class="dot"></td>
+                <td align="left" class="dot"></td>
+                <td height="10" align="left" class="dot"></td>
+              </tr>
+    		      <tr>
+    		      <td align="left"></td>
+                <td align="left"></td>
+                <td height="25" align="left"></td>
+              </tr>
+
 </table>
 </td>
 </tr>

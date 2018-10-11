@@ -68,13 +68,13 @@ a.link:link {
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="35" height="30" align="center"><img src="assets/images/time.png" width="17" height="17"></td>
-                    <td>18h-21h</td>
+                    <td>15h</td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
                     <td>Université Lille 3</td>
-                    <td align="right"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7ikeECsrU8U_vliu1Jn442gU_N8rPQk1QlikDxdEKdm_XBw/viewform?usp=sf_link" target="_blank" class="link">报名链接&gt;</a></td>
+                    <td align="right"><a href="https://goo.gl/forms/KvfZilX36wsgLe662" target="_blank" class="link">报名链接&gt;</a></td>
                   </tr>
                 </table>
                 </td>
