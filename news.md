@@ -64,7 +64,7 @@ a.link:link {
 
               <tr>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top">[2018年07月5日] <a href="http://www.ucecf.fr/show.asp?id=2478" target="_blank">留法四十年纪念大会暨留法学人论坛在巴黎隆重举行</a></td>
+                <td height="26" align="left" valign="top">[2018年07月05日] <a href="http://www.ucecf.fr/show.asp?id=2478" target="_blank">留法四十年纪念大会暨留法学人论坛在巴黎隆重举行</a></td>
               </tr>
               <tr>
                 <td align="left" class="dot"></td>
