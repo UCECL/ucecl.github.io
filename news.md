@@ -49,7 +49,22 @@ a.link:link {
 
               <tr>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top">[2018年7月5日] <a href="http://www.ucecf.fr/show.asp?id=2478" target="_blank">留法四十年纪念大会暨留法学人论坛在巴黎隆重举行</a></td>
+                <td height="26" align="left" valign="top">[2018年11月04日] <a href="https://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==&mid=2651703432&idx=1&sn=fe7c9c9f4ac6d9216b0ae48fd476277a&chksm=805fc680b7284f960a8f1551e276eea96fed21c9e90c4154d7a4ed7bb559779289ce2e6ba857&mpshare=1&scene=1&srcid=1012W26SsjbiuUCwEowPk5WG&pass_ticket=WLvkfcL5V1%2FHniEm8BBMzhYwO7gBxN0dvAz3miuQB3W2O4eouzIzxGjts7opspSl#rd" target="_blank">里尔学联中秋活动回顾</a></td>
+              </tr>
+              <tr>
+                <td align="left" class="dot"></td>
+                <td align="left" class="dot"></td>
+                <td height="10" align="left" class="dot"></td>
+              </tr>
+              <tr>
+              <td align="left"></td>
+                <td align="left"></td>
+                <td height="25" align="left"></td>
+              </tr>
+
+              <tr>
+                <td width="12" align="left">&nbsp;</td>
+                <td height="26" align="left" valign="top">[2018年07月5日] <a href="http://www.ucecf.fr/show.asp?id=2478" target="_blank">留法四十年纪念大会暨留法学人论坛在巴黎隆重举行</a></td>
               </tr>
               <tr>
                 <td align="left" class="dot"></td>
@@ -64,7 +79,7 @@ a.link:link {
 
               <tr>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top">[2018年5月17日] <a href="https://mp.weixin.qq.com/s/ISnz2Go9zusfEfq2cKQY9Q" target="_blank">里尔学联成功召开换届会议</a></td>
+                <td height="26" align="left" valign="top">[2018年05月17日] <a href="https://mp.weixin.qq.com/s/ISnz2Go9zusfEfq2cKQY9Q" target="_blank">里尔学联成功召开换届会议</a></td>
               </tr>
               <tr>
                 <td align="left" class="dot"></td>
