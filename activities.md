@@ -60,7 +60,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="#" target="_blank">我们约会8！ </a><blink><font size="3">未开放</font></blink></td>
+                <td height="26" align="left" valign="top"><a href="#" target="_blank">我们约会8！ </a><blink><font size="3">进行中</font></blink></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
@@ -73,7 +73,7 @@ a.link:link {
                   </tr>
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
-                    <td>Université Lille 1, LMDE</td>
+                    <td>Université Lille 1, Maison des étudiants</td>
                     <td align="right"><a href="" target="_blank" class="link">报名链接&gt;</a></td>
                   </tr>
                 </table>
