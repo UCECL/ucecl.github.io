@@ -55,7 +55,7 @@ a.link:link {
                     <td height="30" align="center"><span class="font-style1">10月</span></td>
                   </tr>
                   <tr>
-                    <td height="65" align="center"><span class="font-style2">20日</span></td>
+                    <td height="65" align="center"><span class="font-style2">21日</span></td>
                   </tr>
                 </table>
                 </td>
@@ -74,7 +74,7 @@ a.link:link {
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
                     <td>Université Lille 1, Maison des étudiants</td>
-                    <td align="right"><a href="" target="_blank" class="link">报名链接&gt;</a></td>
+                    <td align="right"><a href="https://goo.gl/forms/ZwtZGCy32H5fPyY53" target="_blank" class="link">报名链接&gt;</a></td>
                   </tr>
                 </table>
                 </td>
