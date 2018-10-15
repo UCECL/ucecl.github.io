@@ -60,7 +60,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="#" target="_blank">我们约会8！ </a><blink><font size="3">进行中</font></blink></td>
+                <td height="26" align="left" valign="top"><a href="https://mp.weixin.qq.com/s/BFloefodlfDEWk38mbyHwg" target="_blank">我们约会8！ </a><blink><font size="3">进行中</font></blink></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
