@@ -57,8 +57,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		  <tr>
-    		    <td align="left"></td>
+    		  		<tr>
+    		    	<td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
@@ -73,8 +73,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-		      <tr>
-		        <td align="left"></td>
+		      		<tr>
+		        	<td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
@@ -89,8 +89,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		    <tr>
-    		    <td align="left"></td>
+    		    	<tr>
+    		    	<td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
@@ -105,8 +105,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		    <tr>
-    		    <td align="left"></td>
+    		    	<tr>
+    		    	<td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
@@ -121,8 +121,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		    <tr>
-    		    <td align="left"></td>
+    		    	<tr>
+    		    	<td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
@@ -137,8 +137,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		    <tr>
-    		    <td align="left"></td>
+    		    	<tr>
+    		    	<td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
@@ -153,8 +153,8 @@ a.link:link {
                 <td align="left" class="dot"></td>
                 <td height="10" align="left" class="dot"></td>
               </tr>
-    		    <tr>
-    		    <td align="left"></td>
+    		    	<tr>
+    		    	<td align="left"></td>
                 <td align="left"></td>
                 <td height="25" align="left"></td>
               </tr>
