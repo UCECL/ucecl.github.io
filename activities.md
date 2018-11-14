@@ -60,7 +60,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="https://mp.weixin.qq.com/s/vSAS1zxv-oIExgvTM2sgcA" target="_blank">2018中国电信里尔好声音</a><blink><font size="3">进行中</font></blink></td>
+                <td height="26" align="left" valign="top"><a href="https://mp.weixin.qq.com/s/vSAS1zxv-oIExgvTM2sgcA" target="_blank">2018中国电信里尔好声音 </a><blink><font size="3">进行中</font></blink></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
