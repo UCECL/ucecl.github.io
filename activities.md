@@ -52,6 +52,48 @@ a.link:link {
                 <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg1">
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
+                    <td height="30" align="center"><span class="font-style1">02月</span></td>
+                  </tr>
+                  <tr>
+                    <td height="65" align="center"><span class="font-style2">02日</span></td>
+                  </tr>
+                </table>
+                </td>
+                <td width="12" align="left">&nbsp;</td>
+                <td height="26" align="left" valign="top"><a href="" target="_blank">2019己亥猪年春节联欢晚会 </a><blink><font size="3">进行中</font></blink></td>
+              </tr>
+              <tr>
+                <td align="left">&nbsp;</td>
+                <td height="31" align="left" valign="top">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="35" height="30" align="center"><img src="assets/images/time.png" width="17" height="17"></td>
+                    <td>待定</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
+                    <td>待定</td>
+                    <td align="right"><a href="https://goo.gl/forms/cYg5uxpQHZ5OKuwV2" target="_blank" class="link">节目报名链接&gt;</a></td>
+                  </tr>
+                </table>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" class="dot"></td>
+                <td align="left" class="dot"></td>
+                <td height="10" align="left" class="dot"></td>
+              </tr>
+              <tr>
+              <td align="left"></td>
+                <td align="left"></td>
+                <td height="25" align="left"></td>
+              </tr>
+
+              <tr>
+                <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg1">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
                     <td height="30" align="center"><span class="font-style1">12月</span></td>
                   </tr>
                   <tr>
@@ -60,7 +102,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="https://mp.weixin.qq.com/s/vSAS1zxv-oIExgvTM2sgcA" target="_blank">2018中国电信里尔好声音 </a><blink><font size="3">进行中</font></blink></td>
+                <td height="26" align="left" valign="top"><a href="https://mp.weixin.qq.com/s/vSAS1zxv-oIExgvTM2sgcA" target="_blank">2018中国电信里尔好声音 </a><font size="3">已结束</font></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
