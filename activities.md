@@ -55,7 +55,7 @@ a.link:link {
                     <td height="30" align="center"><span class="font-style1">02月</span></td>
                   </tr>
                   <tr>
-                    <td height="65" align="center"><span class="font-style2">02日</span></td>
+                    <td height="65" align="center"><span class="font-style2">09日</span></td>
                   </tr>
                 </table>
                 </td>
@@ -68,12 +68,12 @@ a.link:link {
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="35" height="30" align="center"><img src="assets/images/time.png" width="17" height="17"></td>
-                    <td>待定</td>
+                    <td>19h</td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
-                    <td>待定</td>
+                    <td>Salle Alain Colas, Rue de la Marbrerie, Lille</td>
                     <td align="right"><a href="https://goo.gl/forms/cYg5uxpQHZ5OKuwV2" target="_blank" class="link">节目报名链接&gt;</a></td>
                   </tr>
                 </table>
