@@ -49,6 +49,21 @@ a.link:link {
 
               <tr>
                 <td width="12" align="left">&nbsp;</td>
+                <td height="26" align="left" valign="top">[2018年12月15日] <a href="https://mp.weixin.qq.com/s/tirQBK5RE9MqiVKb_pvR8w" target="_blank">2018年中国电信里尔好声音圆满闭幕！</a></td>
+              </tr>
+              <tr>
+                <td align="left" class="dot"></td>
+                <td align="left" class="dot"></td>
+                <td height="10" align="left" class="dot"></td>
+              </tr>
+              <tr>
+              <td align="left"></td>
+                <td align="left"></td>
+                <td height="25" align="left"></td>
+              </tr>
+
+              <tr>
+                <td width="12" align="left">&nbsp;</td>
                 <td height="26" align="left" valign="top">[2018年11月11日] <a href="https://mp.weixin.qq.com/s/3OMMsSxRv1bCVTZUqw5Oeg" target="_blank">里尔学联八分钟约会回顾</a></td>
               </tr>
               <tr>
