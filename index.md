@@ -7,3 +7,11 @@ title: 主页
 icon: fa-home
 order: 1
 ---
+
+<style>
+body  {
+  background-image: url("assets/images/new-year.jpg");
+}
+</style>
+</head>
+<body>
