@@ -296,7 +296,18 @@ order: 2
     </tr>
     <tr>
     <td height="24">
-    <p style="font-size: 18px">副主席（分管学习部与编宣部）</p>
+    <p style="font-size: 18px">秘书长（执行主席）</p>
+    </td>
+    <td>
+    <p style="font-size: 18px">商雪岽</p>
+    </td>
+    <td>
+    <p style="font-size: 18px">Inria</p>
+    </td>
+    </tr>
+    <tr>
+    <td height="24">
+    <p style="font-size: 18px">副主席（负责宣学部及主持人相关）</p>
     </td>
     <td>
     <p style="font-size: 18px">胡宇晴</p>
@@ -307,23 +318,23 @@ order: 2
     </tr>
     <tr>
     <td height="24">
-    <p style="font-size: 18px">副主席（分管体育部与秘书部）</p>
+    <p style="font-size: 18px">副主席（负责综合活动部及艺术团相关）</p>
     </td>
     <td>
-    <p style="font-size: 18px">李亮</p>
+    <p style="font-size: 18px">蒋陈怡</p>
     </td>
     <td>
-    <p style="font-size: 18px">Université Lille 1</p>
+    <p style="font-size: 18px">EDHEC</p>
     </td>
     </tr>
     <tr>
     <td height="24">
-    <p style="font-size: 18px">副主席（分管文艺部与外联部）</p>
+    <p style="font-size: 18px">副主席（负责外联部及学联后勤保障）</p>
     </td>
     <td>
-    <p style="font-size: 18px">芮梦宇</p>
+    <p style="font-size: 18px">郑策</p>
     </td>
     <td>
-    <p style="font-size: 18px">Polytech-Lille</p>
+    <p style="font-size: 18px">CNRS</p>
     </td>
     </tr>
