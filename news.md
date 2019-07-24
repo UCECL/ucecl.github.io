@@ -49,7 +49,7 @@ a.link:link {
 
               <tr>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top">[2018年12月15日] <a href="https://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==&mid=2651703607&idx=1&sn=45a3edea819412db8f937a0e8bd7b92e&chksm=805fc73fb7284e292dab9a4b3a12bcfff1e168df18c31e02f275956c7cd192b56fe0c588f964&mpshare=1&scene=1&srcid=&sharer_sharetime=1563979943460&sharer_shareid=39d112968075b5ed78d7441cdb98e307&pass_ticket=XCNvtqFXiGPDb1skbLVp8j%2FQ5vUhqmIEDxi5UcOud7z9qAUhiA%2F9nIsqRK%2FFlXkX#rd" target="_blank">第十四届春晖杯里尔宣讲专场活动成功举办</a></td>
+                <td height="26" align="left" valign="top">[2019年06月12日] <a href="https://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==&mid=2651703607&idx=1&sn=45a3edea819412db8f937a0e8bd7b92e&chksm=805fc73fb7284e292dab9a4b3a12bcfff1e168df18c31e02f275956c7cd192b56fe0c588f964&mpshare=1&scene=1&srcid=&sharer_sharetime=1563979943460&sharer_shareid=39d112968075b5ed78d7441cdb98e307&pass_ticket=XCNvtqFXiGPDb1skbLVp8j%2FQ5vUhqmIEDxi5UcOud7z9qAUhiA%2F9nIsqRK%2FFlXkX#rd" target="_blank">第十四届春晖杯里尔宣讲专场活动成功举办</a></td>
               </tr>
               <tr>
                 <td align="left" class="dot"></td>
@@ -64,7 +64,7 @@ a.link:link {
 
               <tr>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top">[2018年12月15日] <a href="https://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==&mid=2651703580&idx=1&sn=b329a5a2eb82808e3f54a17987314ea2&chksm=805fc714b7284e029578fe0f6b831a90eecf61d4ba65c9776635f8cffc3381f7d554e1c3fb6d&mpshare=1&scene=1&srcid=&sharer_sharetime=1563979971542&sharer_shareid=39d112968075b5ed78d7441cdb98e307&pass_ticket=XCNvtqFXiGPDb1skbLVp8j%2FQ5vUhqmIEDxi5UcOud7z9qAUhiA%2F9nIsqRK%2FFlXkX#rd" target="_blank">2019己亥猪年里尔学联春节联欢晚会圆满落幕！</a></td>
+                <td height="26" align="left" valign="top">[2019年02月09日] <a href="https://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==&mid=2651703580&idx=1&sn=b329a5a2eb82808e3f54a17987314ea2&chksm=805fc714b7284e029578fe0f6b831a90eecf61d4ba65c9776635f8cffc3381f7d554e1c3fb6d&mpshare=1&scene=1&srcid=&sharer_sharetime=1563979971542&sharer_shareid=39d112968075b5ed78d7441cdb98e307&pass_ticket=XCNvtqFXiGPDb1skbLVp8j%2FQ5vUhqmIEDxi5UcOud7z9qAUhiA%2F9nIsqRK%2FFlXkX#rd" target="_blank">2019己亥猪年里尔学联春节联欢晚会圆满落幕！</a></td>
               </tr>
               <tr>
                 <td align="left" class="dot"></td>
