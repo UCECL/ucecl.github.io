@@ -116,7 +116,7 @@ order: 2
     </section>
     </section>
 
-    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <!-- <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin: 15px 0%;box-sizing: border-box;">
     <section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;">
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
@@ -136,7 +136,7 @@ order: 2
             <li><p style="box-sizing: border-box;">在里尔学联主办或承办的各项活动中负责后勤保障工作；</p></li>
             <li><p style="box-sizing: border-box;">负责定期和编宣部合作，向里尔华人普及涉及运动的相关知识。</p></li>
         </ol>
-    </section></section></section></section></section></section>
+    </section></section></section></section></section></section> -->
 
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
@@ -180,7 +180,7 @@ order: 2
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
     <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
-        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">编宣部</p>
+        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">宣学部</p>
         <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
     </section>
     </section>
@@ -192,6 +192,7 @@ order: 2
         <ol class=" list-paddingleft-2" style="">
             <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联各类活动的前后期实体宣传工作，包括海报、地贴、宣传册的制作等；</span></p></li>
             <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联社交平台的管理工作，包括公众号运营、脸书更新等；</span></p></li>
+            <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责收集整理并发布里尔学习、生活、实习等相关信息；</span></p></li>
             <li><p style="box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">负责里尔学联各类活动的现场摄影与录像工作。</span></p></li>
         </ol>
     </section></section></section></section></section></section>
@@ -209,7 +210,7 @@ order: 2
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
     <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
-        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">秘书部</p>
+        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">秘书处</p>
         <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
     </section>
     </section>
