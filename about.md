@@ -103,7 +103,8 @@ order: 2
     <section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;">
         <ol class=" list-paddingleft-2" style="">
             <li><p style="box-sizing: border-box;">负责组织各种文体活动，丰富里尔华人的业余生活，定期组织召开部门会议；</p></li>
-            <li><p style="box-sizing: border-box;">在里尔学联主办或承办的各项活动中负责后勤保障工作，做好里尔学联例行文体活动以及其他大型活动期间的策划工作及组织工作；</p></li>
+            <li><p style="box-sizing: border-box;">做好里尔学联例行文体活动以及其他大型活动期间的策划工作及组织工作；</p></li>
+            <li><p style="box-sizing: border-box;">在里尔学联主办或承办的各项活动中通过协调其余部门主导后勤保障工作；</p></li>
             <li><p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">承办里尔学联春节联欢晚会晚会；</span></p></li>
             <li><p style="box-sizing: border-box;">及时了解掌握文艺团的工作情况，并做好与主席团的反馈工作。</p></li>
         </ol>
