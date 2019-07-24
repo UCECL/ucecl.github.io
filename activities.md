@@ -60,7 +60,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="" target="_blank">2019己亥猪年春节联欢晚会 </a><blink><font size="3">进行中</font></blink></td>
+                <td height="26" align="left" valign="top"><a href="" target="_blank">2019己亥猪年春节联欢晚会 </a><font size="3">已结束</font></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>

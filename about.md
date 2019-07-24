@@ -35,8 +35,8 @@ order: 2
     </section>
     </section>
 
-    <section class="" style="font-size: 18px;color: rgb(98, 82, 63);box-sizing: border-box;">
-        <p style="box-sizing: border-box;"><strong style="box-sizing: border-box;">里尔中国学生学者联谊会，法语全称 Union des chercheurs et étudiants chinois en France à Lille，简称里尔学联（UCECL）。里尔学联是服务于里尔华人学生学者的非营利组织，目前设有学习部、文艺部、体育部、外联部、编宣部、秘书部、 艺术团等七个部门。</strong></p>
+    <section class="" style="font-size: 18px;color: Urgb(98, 82, 63);box-sizing: border-box;">
+        <p style="box-sizing: border-box;"><strong style="box-sizing: border-box;">里尔中国学生学者联谊会，法语全称 Union des chercheurs et étudiants chinois en France à Lille，简称里尔学联（UCECL）。里尔学联是服务于里尔华人学生学者的非营利组织，目前设有综合活动部、外联部、宣学部、秘书处、艺术团等五个部门。</strong></p>
     </section>
 
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
