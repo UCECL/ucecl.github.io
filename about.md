@@ -60,7 +60,7 @@ order: 2
     </section>
     </section>
 
-    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
+    <!-- <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin: 15px 0%;box-sizing: border-box;">
     <section class="" style="display: inline-block;vertical-align: top;width: 15%;padding-right: 1px;padding-left: 1px;box-sizing: border-box;">
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
@@ -77,7 +77,7 @@ order: 2
             <li><p style="box-sizing: border-box;">做好与里尔各学校的华人学生会或学生自治会的沟通工作，定期合办或协办主题学术活动；</p></li>
             <li><p style="box-sizing: border-box;">负责收集整理学习和实习相关信息，开展分享会、研讨会等活动。</p></li>
         </ol>
-    </section></section></section></section></section></section>
+    </section></section></section></section></section></section> -->
 
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
@@ -92,7 +92,7 @@ order: 2
     <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;" powered-by="xiumi.us">
     <section class="" style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;font-size: 18px;box-sizing: border-box;">
     <section class="" style="display: inline-block;vertical-align: top;border-left: 1px solid rgb(160, 160, 160);border-right: 1px solid rgb(160, 160, 160);padding-right: 5px;padding-left: 5px;color: rgb(85, 18, 18);box-sizing: border-box;">
-        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">文艺部</p>
+        <p style="display: inline-block;width: 1em;margin-right: 0.2em;margin-left: 0.2em;float: right;clear: none;box-sizing: border-box;">综合活动部</p>
         <p class="" style="font-size: 0px;line-height: 0;min-height: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"  /></p>
     </section>
     </section>
@@ -102,8 +102,8 @@ order: 2
     <section class="" style="box-sizing: border-box;">
     <section class="" style="color: rgb(102, 102, 102);text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;">
         <ol class=" list-paddingleft-2" style="">
-            <li><p style="box-sizing: border-box;">负责组织各种文艺活动，丰富里尔华人的文娱生活，定期组织召开部门会议；</p></li>
-            <li><p style="box-sizing: border-box;">做好里尔学联例行文艺活动以及其他大型活动期间的有关文艺活动的策划工作及组织工作；</p></li>
+            <li><p style="box-sizing: border-box;">负责组织各种文体活动，丰富里尔华人的业余生活，定期组织召开部门会议；</p></li>
+            <li><p style="box-sizing: border-box;">在里尔学联主办或承办的各项活动中负责后勤保障工作，做好里尔学联例行文体活动以及其他大型活动期间的策划工作及组织工作；</p></li>
             <li><p style="box-sizing: border-box;"><span style="letter-spacing: 0px;box-sizing: border-box;">承办里尔学联春节联欢晚会晚会；</span></p></li>
             <li><p style="box-sizing: border-box;">及时了解掌握文艺团的工作情况，并做好与主席团的反馈工作。</p></li>
         </ol>
