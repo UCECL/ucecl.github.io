@@ -73,7 +73,7 @@ a.link:link {
                   </tr>
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
-                    <td>Maison des étudiants, Université de Lille, Campus Cité Scientifique, Lille</td>
+                    <td>UGC Ciné Cité Lille</td>
                     <td align="right"><a href="https://ucecl.github.io/" target="_blank" class="link">报名链接&gt;</a></td>
                   </tr>
                 </table>
