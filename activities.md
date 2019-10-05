@@ -52,6 +52,48 @@ a.link:link {
                 <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg1">
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
+                    <td height="30" align="center"><span class="font-style1">09月</span></td>
+                  </tr>
+                  <tr>
+                    <td height="65" align="center"><span class="font-style2">21日</span></td>
+                  </tr>
+                </table>
+                </td>
+                <td width="12" align="left">&nbsp;</td>
+                <td height="26" align="left" valign="top"><a href="" target="_blank">2019里尔学联中秋国庆迎新会 </a><font size="3">已结束</font></td>
+              </tr>
+              <tr>
+                <td align="left">&nbsp;</td>
+                <td height="31" align="left" valign="top">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="35" height="30" align="center"><img src="assets/images/time.png" width="17" height="17"></td>
+                    <td>19h</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
+                    <td>Maison des étudiants, Université de Lille, Campus Cité Scientifique, Lille</td>
+                    <td align="right"><a href="https://goo.gl/forms/KvfZilX36wsgLe662" target="_blank" class="link">节目报名链接&gt;</a></td>
+                  </tr>
+                </table>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" class="dot"></td>
+                <td align="left" class="dot"></td>
+                <td height="10" align="left" class="dot"></td>
+              </tr>
+              <tr>
+              <td align="left"></td>
+                <td align="left"></td>
+                <td height="25" align="left"></td>
+              </tr>
+
+              <tr>
+                <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg1">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
                     <td height="30" align="center"><span class="font-style1">02月</span></td>
                   </tr>
                   <tr>
