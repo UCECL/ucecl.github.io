@@ -47,6 +47,22 @@ a.link:link {
 <td align="center" valign="top">
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolordark="#FFFFFF" bordercolorlight="#000000" style="word-break:break-all;">
 
+							<tr>
+								<td width="12" align="left">&nbsp;</td>
+								<td height="26" align="left" valign="top">[生活贴士] <a href="https://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==&mid=2651703712&idx=1&sn=e54ecfc7dcab1909ba88e8ecf0ba4110&chksm=805fc7a8b7284ebeb5ebf318a7d99bf7dbea6b72d2147097045e8f3ce8a01246510f0678b348&mpshare=1&scene=1&srcid=&sharer_sharetime=1570270368990&sharer_shareid=39d112968075b5ed78d7441cdb98e307&pass_ticket=81p3eqxbSf70b%2FZU0mT1tPxL%2FnNPd3jI4t1QOio2lOHSHPCGZl%2B3iFurcpGKnYz1#rd" target="_blank">大使馆教你如何预防电信诈骗</a></td>
+								<td align="right">2019年09月28日</td>
+							</tr>
+							<tr>
+								<td align="left" class="dot"></td>
+								<td align="left" class="dot"></td>
+								<td height="10" align="left" class="dot"></td>
+							</tr>
+							<tr>
+							<td align="left"></td>
+								<td align="left"></td>
+								<td height="25" align="left"></td>
+							</tr>
+
               <tr>
                 <td width="12" align="left">&nbsp;</td>
                 <td height="26" align="left" valign="top">[生活贴士] <a href="https://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==&mid=2651703428&idx=1&sn=05e33c959bd93e2b992a55fa146f761f&chksm=805fc68cb7284f9abd03c25f3b5b3efaccef790c888b90a34ef4c353c3073bb7f7348d23a0a0&mpshare=1&scene=1&srcid=1012s2U8uirmZ3spsEuvx3Qi&pass_ticket=WLvkfcL5V1%2FHniEm8BBMzhYwO7gBxN0dvAz3miuQB3W2O4eouzIzxGjts7opspSl#rd" target="_blank">里尔交通指南</a></td>
