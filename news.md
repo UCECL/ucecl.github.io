@@ -49,6 +49,21 @@ a.link:link {
 
               <tr>
                 <td width="12" align="left">&nbsp;</td>
+                <td height="26" align="left" valign="top">[2019年09月21日] <a href="https://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==&mid=2651703735&idx=2&sn=bbf109b6cb174401554d8430a540c731&chksm=805fc7bfb7284ea94efe232536bcbd1b2b473642a03ff999c67903824ee05a5ccaf0bb45ba3f&mpshare=1&scene=1&srcid=&sharer_sharetime=1570270386471&sharer_shareid=39d112968075b5ed78d7441cdb98e307&pass_ticket=81p3eqxbSf70b%2FZU0mT1tPxL%2FnNPd3jI4t1QOio2lOHSHPCGZl%2B3iFurcpGKnYz1#rd" target="_blank">2019里尔学联中秋国庆迎新会</a></td>
+              </tr>
+              <tr>
+                <td align="left" class="dot"></td>
+                <td align="left" class="dot"></td>
+                <td height="10" align="left" class="dot"></td>
+              </tr>
+              <tr>
+              <td align="left"></td>
+                <td align="left"></td>
+                <td height="25" align="left"></td>
+              </tr>
+
+              <tr>
+                <td width="12" align="left">&nbsp;</td>
                 <td height="26" align="left" valign="top">[2019年06月12日] <a href="https://mp.weixin.qq.com/s?__biz=MzAxMzE3MTU1OQ==&mid=2651703607&idx=1&sn=45a3edea819412db8f937a0e8bd7b92e&chksm=805fc73fb7284e292dab9a4b3a12bcfff1e168df18c31e02f275956c7cd192b56fe0c588f964&mpshare=1&scene=1&srcid=&sharer_sharetime=1563979943460&sharer_shareid=39d112968075b5ed78d7441cdb98e307&pass_ticket=XCNvtqFXiGPDb1skbLVp8j%2FQ5vUhqmIEDxi5UcOud7z9qAUhiA%2F9nIsqRK%2FFlXkX#rd" target="_blank">第十四届春晖杯里尔宣讲专场活动成功举办</a></td>
               </tr>
               <tr>
