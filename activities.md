@@ -68,12 +68,12 @@ a.link:link {
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="35" height="30" align="center"><img src="assets/images/time.png" width="17" height="17"></td>
-                    <td>13h</td>
+                    <td>19h</td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
                     <td height="30" align="center"><img src="assets/images/venue.png" width="17" height="25"></td>
-                    <td>UGC Ciné Cité Lille</td>
+                    <td>Salle des fêtes de Lille-Fives, 91 Rue de Lannoy, 59800 Lille</td>
                     <td align="right"><a href="https://ucecl.github.io/" target="_blank" class="link">购票链接&gt;</a></td>
                   </tr>
                 </table>
