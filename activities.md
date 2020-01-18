@@ -52,15 +52,15 @@ a.link:link {
                 <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg1">
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
-                    <td height="30" align="center"><span class="font-style1">10月</span></td>
+                    <td height="30" align="center"><span class="font-style1">02月</span></td>
                   </tr>
                   <tr>
-                    <td height="65" align="center"><span class="font-style2">13日</span></td>
+                    <td height="65" align="center"><span class="font-style2">01日</span></td>
                   </tr>
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="" target="_blank">2020庚子鼠年春节联欢晚会 </a><font size="3"><blink>进行中</blink></font></td>
+                <td height="26" align="left" valign="top"><a href="https://mp.weixin.qq.com/s/ycAgiKMxJvROpS8LKrwpZg" target="_blank">2020庚子鼠年春节联欢晚会 </a><font size="3"><blink>进行中</blink></font></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
@@ -94,15 +94,15 @@ a.link:link {
                 <td width="121" height="87" rowspan="3" align="left" valign="top" class="bg1">
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
-                    <td height="30" align="center"><span class="font-style1">10月</span></td>
+                    <td height="30" align="center"><span class="font-style1">11月</span></td>
                   </tr>
                   <tr>
-                    <td height="65" align="center"><span class="font-style2">13日</span></td>
+                    <td height="65" align="center"><span class="font-style2">17日</span></td>
                   </tr>
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="" target="_blank">2019中国电信里尔好声音 </a><font size="3">已结束</font></td>
+                <td height="26" align="left" valign="top"><a href="https://mp.weixin.qq.com/s/2UDt_XW00rR6fvsHU0d4kg" target="_blank">2019中国电信里尔好声音 </a><font size="3">已结束</font></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
@@ -144,7 +144,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="" target="_blank">我和我的祖国里尔学联专场 </a><font size="3">已结束</font></td>
+                <td height="26" align="left" valign="top"><a href="https://mp.weixin.qq.com/s/J6ieMD_GWxbyXOC5kOAjKA" target="_blank">我和我的祖国里尔学联专场 </a><font size="3">已结束</font></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
@@ -186,7 +186,7 @@ a.link:link {
                 </table>
                 </td>
                 <td width="12" align="left">&nbsp;</td>
-                <td height="26" align="left" valign="top"><a href="" target="_blank">2019里尔学联中秋国庆迎新会 </a><font size="3">已结束</font></td>
+                <td height="26" align="left" valign="top"><a href="https://mp.weixin.qq.com/s/vGorJdlKKc47pyNpWhqkXw" target="_blank">2019里尔学联中秋国庆迎新会 </a><font size="3">已结束</font></td>
               </tr>
               <tr>
                 <td align="left">&nbsp;</td>
